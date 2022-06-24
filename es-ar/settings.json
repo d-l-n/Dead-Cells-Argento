@@ -1,0 +1,9 @@
+{
+	"category": "language",
+	"name": "Español Argentino",
+	"lang": {
+		"code": "es-ar",
+		"src": "en",
+		"chars": "latin"
+	}
+}
