@@ -154,7 +154,7 @@ msgstr "Armas cuerpo a cuerpo"
 #. msgid "Pendentifs"
 #: src/Lang.hx:617
 msgid "Pendants"
-msgstr "Aros"
+msgstr "Aritos"
 
 #. --------
 #. msgid "Divers"
@@ -238,7 +238,7 @@ msgstr "Arma cuerpo a cuerpo"
 #. msgid "Pendentif"
 #: src/Lang.hx:634 src/tool/InventItem.hx:910
 msgid "Pendant"
-msgstr "Aro"
+msgstr "Arito"
 
 #. --------
 #. msgid "Amélioration générale"
@@ -1660,69 +1660,69 @@ msgstr ""
 
 #: src/Lang.hx:963
 msgid "::s::s ::ms::ms"
-msgstr ""
+msgstr "::s::s ::ms::ms"
 
 #: src/Lang.hx:964
 msgid "::s::s"
-msgstr ""
+msgstr "::s::s"
 
 #: src/Lang.hx:966
 msgid "::m::m ::s::s ::ms::ms"
-msgstr ""
+msgstr "::m::m ::s::s ::ms::ms"
 
 #: src/Lang.hx:967
 msgid "::m::m ::s::s"
-msgstr ""
+msgstr "::m::m ::s::s"
 
 #: src/Lang.hx:969
 msgid "::h::h ::m::m ::s::s ::ms::ms"
-msgstr ""
+msgstr "::h::h ::m::m ::s::s ::ms::ms"
 
 #: src/Lang.hx:970
 msgid "::h::h ::m::m ::s::s"
-msgstr ""
+msgstr "::h::h ::m::m ::s::s"
 
 #. --------
 #. msgid "::s:: seconde(s) ::ms:: milliseconde(s)"
 #: src/Lang.hx:974
 msgid "::s:: second(s) ::ms:: millisecond(s)"
-msgstr ""
+msgstr "::s:: segundo(s) ::ms:: millisegundo(s)"
 
 #. --------
 #. msgid "::s:: seconde(s)"
 #: src/Lang.hx:975
 msgid "::s:: second(s)"
-msgstr ""
+msgstr "::s:: segundo(s)"
 
 #. --------
 #. msgid "::m:: minute(s) ::s:: seconde(s) ::ms:: milliseconde(s)"
 #: src/Lang.hx:977
 msgid "::m:: minute(s) ::s:: second(s) ::ms:: millisecond(s)"
-msgstr ""
+msgstr "::m:: minuto(s) ::s:: segundo(s) ::ms:: millisegundo(s)"
 
 #. --------
 #. msgid "::m:: minute(s) ::s:: seconde(s)"
 #: src/Lang.hx:978
 msgid "::m:: minute(s) ::s:: second(s)"
-msgstr ""
+msgstr "::m:: minuto(s) ::s:: segundo(s)"
 
 #. --------
 #. msgid "::h:: heure(s) ::m:: minute(s) ::s:: seconde(s) ::ms:: milliseconde(s)"
 #: src/Lang.hx:980
 msgid "::h:: hour(s) ::m:: minute(s) ::s:: second(s) ::ms:: millisecond(s)"
-msgstr ""
+msgstr "::h:: hora(s) ::m:: minuto(s) ::s:: segundo(s) ::ms:: millisegundo(s)"
 
 #. --------
 #. msgid "::h:: heure(s) ::m:: minute(s) ::s:: seconde(s)"
 #: src/Lang.hx:981
 msgid "::h:: hour(s) ::m:: minute(s) ::s:: second(s)"
-msgstr ""
+msgstr "::h:: hora(s) ::m:: minuto(s) ::s:: segundo(s)"
 
 #. --------
 #. msgid "Avertissement"
 #: src/Main.hx:369 src/tool/ScoringMode.hx:56
 msgid "Warning"
-msgstr ""
+msgstr "Cuidado"
 
 #. --------
 #. msgid ""
@@ -1738,7 +1738,7 @@ msgstr ""
 #. msgid "Échec"
 #: src/Main.hx:383 src/Main.hx:392 src/pow/Pokecharge.hx:97
 msgid "Failed"
-msgstr ""
+msgstr "Fallaste"
 
 #. --------
 #. msgid "Votre version n'est pas à jour. Veuillez mettre à jour le jeu, s'il vous plaît."
@@ -1799,13 +1799,13 @@ msgstr "Espacio"
 #. msgid "Page préc."
 #: src/Options.hx:1069
 msgid "PgUp"
-msgstr ""
+msgstr "PgUp"
 
 #. --------
 #. msgid "Page suiv."
 #: src/Options.hx:1070
 msgid "PgDn"
-msgstr ""
+msgstr "PgDn"
 
 #. End key
 #.
@@ -1813,7 +1813,7 @@ msgstr ""
 #. msgid "Fin"
 #: src/Options.hx:1071
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #. Home key
 #.
@@ -1821,37 +1821,37 @@ msgstr ""
 #. msgid "Début"
 #: src/Options.hx:1072
 msgid "Home"
-msgstr ""
+msgstr "Inicio"
 
 #. --------
 #. msgid "Gauche"
 #: src/Options.hx:1073 src/ui/Options.hx:320
 msgid "Left"
-msgstr ""
+msgstr "Izquierda"
 
 #. --------
 #. msgid "Haut"
 #: src/Options.hx:1074 src/ui/Options.hx:319
 msgid "Up"
-msgstr ""
+msgstr "Arriba"
 
 #. --------
 #. msgid "Droite"
 #: src/Options.hx:1075 src/ui/Options.hx:322
 msgid "Right"
-msgstr ""
+msgstr "Derecha"
 
 #. --------
 #. msgid "Bas"
 #: src/Options.hx:1076 src/ui/Options.hx:321
 msgid "Down"
-msgstr ""
+msgstr "Abajo"
 
 #. --------
 #. msgid "Insér."
 #: src/Options.hx:1077
 msgid "Insert"
-msgstr ""
+msgstr "Insertar"
 
 #. --------
 #. msgid "Suppr."
@@ -1859,79 +1859,79 @@ msgstr ""
 #. msgid "Supprimer"
 #: src/Options.hx:1078
 msgid "Delete"
-msgstr ""
+msgstr "Supr"
 
 #. --------
 #. msgid "Num. 0"
 #: src/Options.hx:1089
 msgid "Num 0"
-msgstr ""
+msgstr "Num 0"
 
 #. --------
 #. msgid "Num. 1"
 #: src/Options.hx:1090
 msgid "Num 1"
-msgstr ""
+msgstr "Num 1"
 
 #. --------
 #. msgid "Num. 2"
 #: src/Options.hx:1091
 msgid "Num 2"
-msgstr ""
+msgstr "Num 2"
 
 #. --------
 #. msgid "Num. 3"
 #: src/Options.hx:1092
 msgid "Num 3"
-msgstr ""
+msgstr "Num 3"
 
 #. --------
 #. msgid "Num. 4"
 #: src/Options.hx:1093
 msgid "Num 4"
-msgstr ""
+msgstr "Num 4"
 
 #. --------
 #. msgid "Num. 5"
 #: src/Options.hx:1094
 msgid "Num 5"
-msgstr ""
+msgstr "Num 5"
 
 #. --------
 #. msgid "Num. 6"
 #: src/Options.hx:1095
 msgid "Num 6"
-msgstr ""
+msgstr "Num 6"
 
 #. --------
 #. msgid "Num. 7"
 #: src/Options.hx:1096
 msgid "Num 7"
-msgstr ""
+msgstr "Num 7"
 
 #. --------
 #. msgid "Num. 8"
 #: src/Options.hx:1097
 msgid "Num 8"
-msgstr ""
+msgstr "Num 8"
 
 #. --------
 #. msgid "Num. 9"
 #: src/Options.hx:1098
 msgid "Num 9"
-msgstr ""
+msgstr "Num 9"
 
 #. --------
 #. msgid "Num. *"
 #: src/Options.hx:1137
 msgid "Num *"
-msgstr ""
+msgstr "Num *"
 
 #. --------
 #. msgid "Num. +"
 #: src/Options.hx:1138
 msgid "Num +"
-msgstr ""
+msgstr "Num +"
 
 #. --------
 #. msgid "Num. Entrée"
@@ -1949,7 +1949,7 @@ msgstr "Num -"
 #. msgid "Num. ."
 #: src/Options.hx:1141
 msgid "Num ."
-msgstr "Num -"
+msgstr "Num ."
 
 #. --------
 #. msgid "Num. /"
@@ -1973,7 +1973,7 @@ msgstr "Ctrl"
 #. Alt key
 #: src/Options.hx:1145
 msgid "Alt"
-msgstr "lt"
+msgstr "Alt"
 
 #. Left shift key
 #.
@@ -2053,7 +2053,7 @@ msgstr "Click del medio"
 #. msgid "Clic Suiv."
 #: src/Options.hx:1155
 msgid "Forward click"
-msgstr ""
+msgstr "Click para delante"
 
 #. Mouse back click
 #.
@@ -2061,7 +2061,7 @@ msgstr ""
 #. msgid "Clic Préc."
 #: src/Options.hx:1156
 msgid "Back click"
-msgstr ""
+msgstr "Click para atrás"
 
 #. --------
 #. msgid "U28_BANKER_CINE_ATM_DIALOG_1"
@@ -2238,13 +2238,13 @@ msgstr ""
 #. msgid "Qu'est ce que..."
 #: src/cine/DoubleHero.hx:128
 msgid "What the..."
-msgstr ""
+msgstr "Pero qué"
 
 #. --------
 #. msgid "Vous... Ici ?"
 #: src/cine/EnterGiantRoom.hx:140
 msgid "You... here?"
-msgstr ""
+msgstr "Vos... acá?"
 
 #. --------
 #. msgid "Le Mal-être vous a bien changé !"
@@ -2302,39 +2302,39 @@ msgstr ""
 
 #: src/cine/EnterThroneRoomAsKing.hx:91
 msgid "?!"
-msgstr ""
+msgstr "?!"
 
 #: src/cine/EnterThroneRoomAsKing.hx:104
 msgid "?!?"
-msgstr ""
+msgstr "?!?"
 
 #: src/cine/EnterThroneRoomAsKing.hx:116
 msgid "?!?!"
-msgstr ""
+msgstr "?!?!"
 
 #. --------
 #. msgid "Attendez... vous n'êtes pas le Roi !"
 #: src/cine/EnterThroneRoomAsKing.hx:126
 msgid "Wait... You're not the King!"
-msgstr ""
+msgstr "Bancá... No sos el Rey!"
 
 #. --------
 #. msgid "Vous lui avez volé son corps !"
 #: src/cine/EnterThroneRoomAsKing.hx:131
 msgid "Did you steal his body?"
-msgstr ""
+msgstr "Te robaste su cuerpo?"
 
 #. --------
 #. msgid "IMPOSTEUR !!"
 #: src/cine/EnterThroneRoomAsKing.hx:141
 msgid "Thief!"
-msgstr ""
+msgstr "Choro!"
 
 #. --------
 #. msgid "VOUS!!!"
 #: src/cine/EnterTimeKeeperRoomFirst.hx:71
 msgid "You!"
-msgstr ""
+msgstr "Vos!"
 
 #. --------
 #. msgid ""
@@ -3066,7 +3066,7 @@ msgstr ""
 #. msgid "Sauter"
 #: src/en/Hero.hx:6496 src/ui/Options.hx:244 src/ui/Options.hx:323
 msgid "Jump"
-msgstr ""
+msgstr "Saltar"
 
 #. --------
 #. msgid "Arme principale"
@@ -4058,7 +4058,7 @@ msgstr ""
 #. msgid "U29_ASSIST_MODE_DEACTIVATE"
 #: src/ui/AssistMode.hx:118
 msgid "Disable Assist Mode"
-msgstr ""
+msgstr "Desactivar Modo Asistido"
 
 #. --------
 #. msgid "U29_ASSIST_MODE_ENABLE_TEXT_1"
@@ -4074,7 +4074,7 @@ msgstr ""
 #. msgid "Suivant"
 #: src/ui/AssistMode.hx:171 src/ui/Options.hx:354
 msgid "Next"
-msgstr ""
+msgstr "Siguiente"
 
 #. --------
 #. msgid "U29_ASSIST_MODE_ENABLE_TEXT_2"
@@ -4118,7 +4118,7 @@ msgstr ""
 #. msgid "Voir tout"
 #: src/ui/CollectorPanel.hx:188
 msgid "Show all"
-msgstr ""
+msgstr "Mostrar todo"
 
 #. --------
 #. msgid "Cacher les lignes inutiles"
@@ -4198,31 +4198,31 @@ msgstr ""
 #. msgid "Oui"
 #: src/ui/Confirmation.hx:59
 msgid "Yes"
-msgstr ""
+msgstr "Sí"
 
 #. --------
 #. msgid "Non"
 #: src/ui/Confirmation.hx:72
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. --------
 #. msgid "(maintenu)"
 #: src/ui/ControlLabel.hx:37
 msgid "(hold)"
-msgstr ""
+msgstr "(mantener)"
 
 #. --------
 #. msgid "(MAINTENU)"
 #: src/ui/ControlLabel.hx:88
 msgid "(HOLD)"
-msgstr ""
+msgstr "(MANTENER)"
 
 #. --------
 #. msgid "PARTIE PERSONNALISÉE"
 #: src/ui/CustomGame.hx:180
 msgid "CUSTOM GAME"
-msgstr ""
+msgstr "JUEGO PERSONALIZADO"
 
 #. PS4 terminology
 #.
@@ -4230,7 +4230,7 @@ msgstr ""
 #. msgid "Les modifications suivantes désactiveront l'obtention de trophées :"
 #: src/ui/CustomGame.hx:250
 msgid "The following modifications will disable trophies:"
-msgstr ""
+msgstr "Las siguientes modificaciones van a desactivar los trofeos:"
 
 #. XBox terminology
 #.
@@ -4240,13 +4240,13 @@ msgstr ""
 #. msgid "Les modifications suivantes désactiveront l'obtention de hauts faits :"
 #: src/ui/CustomGame.hx:252
 msgid "The following modifications will disable achievements:"
-msgstr ""
+msgstr "Las siguientes modificaciones van a desactivar los logros:"
 
 #. --------
 #. msgid "Moins de 20 armes ou actifs déverrouillés"
 #: src/ui/CustomGame.hx:258
 msgid "Less than 20 items unlocked"
-msgstr ""
+msgstr "Menos de 20 cosas desbloqueadas"
 
 #. --------
 #. msgid "Présence de modificateur gameplay"
@@ -4268,7 +4268,7 @@ msgstr ""
 #. msgid "Matériel"
 #: src/ui/CustomGame.hx:278 src/ui/CustomGame.hx:1806 src/ui/CustomGame.hx:1807
 msgid "Equipment"
-msgstr ""
+msgstr "Equipo"
 
 #. --------
 #. msgid "Options avancées"
@@ -4316,7 +4316,7 @@ msgstr ""
 
 #: src/ui/CustomGame.hx:290
 msgid "Reset"
-msgstr ""
+msgstr "Restablecer"
 
 #. --------
 #. msgid "Remise à 0"
@@ -4421,7 +4421,7 @@ msgstr ""
 #. msgid "= Désactivera l'obtention de Trophée"
 #: src/ui/CustomGame.hx:395 src/ui/CustomGame.hx:428 src/ui/CustomGame.hx:658
 msgid "= Disable trophies"
-msgstr ""
+msgstr "= Desactivar trofeos"
 
 #. XBox terminology
 #.
@@ -4431,7 +4431,7 @@ msgstr ""
 #. msgid "= Désactivera l'obtention de Haut Fait"
 #: src/ui/CustomGame.hx:397 src/ui/CustomGame.hx:430 src/ui/CustomGame.hx:660
 msgid "= Disable achievements"
-msgstr ""
+msgstr "= Desactivar logros"
 
 #. --------
 #. msgid "Équipement de départ"
@@ -4602,13 +4602,13 @@ msgstr ""
 #. msgid "Désactiver les Armes Légendaires"
 #: src/ui/CustomGame.hx:549
 msgid "Disable Legendary Weapons"
-msgstr ""
+msgstr "Desactivar Armas Legendarias"
 
 #. --------
 #. msgid "Désactiver la Forge Mineure"
 #: src/ui/CustomGame.hx:553
 msgid "Disable the Minor Forge"
-msgstr ""
+msgstr "Desactivar la Forja Menor"
 
 #. --------
 #. msgid ""
@@ -4642,7 +4642,7 @@ msgstr ""
 #. msgid "Désactiver les Équipements Payants"
 #: src/ui/CustomGame.hx:578
 msgid "Disable Paid Items"
-msgstr ""
+msgstr "Desactivar Cosas Pagas"
 
 #. --------
 #. msgid "Magasins, objets derrière portes dorées."
@@ -4654,7 +4654,7 @@ msgstr ""
 #. msgid "Désactiver les Équipements Gratuits"
 #: src/ui/CustomGame.hx:583
 msgid "Disable Free Items"
-msgstr ""
+msgstr "Desactivar Cosas Gratuitas"
 
 #. --------
 #. msgid "Objets au sol, coffres normaux et maudits, salle de lore, et autels."
@@ -4666,19 +4666,19 @@ msgstr ""
 #. msgid "Désactiver les Modificateurs"
 #: src/ui/CustomGame.hx:596
 msgid "Disable Modifiers"
-msgstr ""
+msgstr "Desactivar Modificadores"
 
 #. --------
 #. msgid "Désactiver Protection Anti-OneShot"
 #: src/ui/CustomGame.hx:600
 msgid "Disable the one-hit protection mechanic"
-msgstr ""
+msgstr "Desactivar la mecánica de protección de un solo golpe"
 
 #. --------
 #. msgid "Désactiver Mutations"
 #: src/ui/CustomGame.hx:604
 msgid "Disable Mutations"
-msgstr "Sacar Mutaciones"
+msgstr "Desactivar Mutaciones"
 
 #. --------
 #. msgid "Modificateurs de l'Infection"
@@ -4750,13 +4750,13 @@ msgstr ""
 #. msgid "Enable malaise"
 #: src/ui/CustomGame.hx:693
 msgid "Enable Malaise"
-msgstr ""
+msgstr "Activar Malestar"
 
 #. --------
 #. msgid "Désactiver le malaise"
 #: src/ui/CustomGame.hx:694
 msgid "Disable Malaise"
-msgstr ""
+msgstr "Desactivar Malestar"
 
 #. --------
 #. msgid "La potion ne soigne plus l'infection"
@@ -5169,19 +5169,19 @@ msgstr ""
 #. msgid "INFORMATIONS"
 #: src/ui/GameInfos.hx:40
 msgid "INFO"
-msgstr ""
+msgstr "INFO"
 
 #. --------
 #. msgid "Modificateurs Gameplay"
 #: src/ui/GameInfos.hx:69
 msgid "Gameplay modifiers"
-msgstr ""
+msgstr "Modificadores del juego"
 
 #. --------
 #. msgid "Aucun"
 #: src/ui/GameInfos.hx:77 src/ui/GameInfos.hx:110 src/ui/Options.hx:1205
 msgid "None"
-msgstr ""
+msgstr "Ninguno"
 
 #. --------
 #. msgid "Schémas"
@@ -5373,31 +5373,31 @@ msgstr ""
 #. msgid "::d:: dégâts/sec"
 #: src/ui/ItemDesc.hx:96
 msgid "::d:: damage/sec"
-msgstr ""
+msgstr "::d:: daño/seg"
 
 #. --------
 #. msgid "Aucune utilisation"
 #: src/ui/ItemDesc.hx:104 src/ui/NewItemDesc.hx:436
 msgid "No uses"
-msgstr ""
+msgstr "Sin usos"
 
 #. --------
 #. msgid "::d:: sec de rechargement"
 #: src/ui/ItemDesc.hx:105
 msgid "::d:: sec cooldown time"
-msgstr ""
+msgstr "::d:: seg de tiempo de espera"
 
 #. --------
 #. msgid "Dégâts +::n::%"
 #: src/ui/ItemDesc.hx:163 src/ui/NewItemDesc.hx:443
 msgid "+::n::% damage"
-msgstr ""
+msgstr "+::n::% daño"
 
 #. --------
 #. msgid "Tous dégâts subis -::n::%"
 #: src/ui/ItemDesc.hx:167
 msgid "-::n::% on all damage received"
-msgstr ""
+msgstr "-::n::% en todo el daño recibido"
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Brutalité."
@@ -5409,19 +5409,19 @@ msgstr "El poder de esta Mutación aumenta en proporción a tu Brutalidad."
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Tactique."
 #: src/ui/ItemDesc.hx:197
 msgid "The power of this Mutation increases in proportion to your Tactics."
-msgstr ""
+msgstr "El poder de esta Mutación aumenta en proporción a tu Táctica."
 
 #. --------
 #. msgid "La puissance de cette Mutation augmente en fonction de votre Survie."
 #: src/ui/ItemDesc.hx:199
 msgid "The power of this Mutation increases in proportion to your Survival."
-msgstr ""
+msgstr "El poder de esta Mutación aumenta en proporción a tu Supervivencia."
 
 #. --------
 #. msgid "::d::/::m::/::y::"
 #: src/ui/LeaderboardPanel.hx:140
 msgid "::m::/::d::/::y::"
-msgstr ""
+msgstr "::m::/::d::/::y::"
 
 #: src/ui/LeaderboardPanel.hx:153 src/cine/coll/EndCollectorPostSmash.hx:157
 #: src/cine/coll/EndCollectorPreSmash.hx:66
@@ -5457,37 +5457,37 @@ msgstr ""
 #: res/data.cdb:loreRoom/#125.examinables/#1.events/#0.text
 #: res/data.cdb:loreRoom/#131.examinables/#0.events/#5.text
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. --------
 #. msgid "CLASSEMENT DÉFI QUOTIDIEN"
 #: src/ui/LeaderboardPanel.hx:280
 msgid "DAILY CHALLENGE RANKING"
-msgstr ""
+msgstr "RANKING DEL DESAFÍO DIARIO"
 
 #. --------
 #. msgid "Chargement..."
 #: src/ui/LeaderboardPanel.hx:340 src/ui/Loading.hx:59 src/ui/Options.hx:1451
 msgid "Loading..."
-msgstr ""
+msgstr "Cargando..."
 
 #. --------
 #. msgid "Temps actuel : ::time::"
 #: src/ui/Loading.hx:151
 msgid "Current time: ::time::"
-msgstr ""
+msgstr "Tiempo actual: ::time::"
 
 #. --------
 #. msgid "::name:: !"
 #: src/ui/LogManager.hx:222
 msgid "::name::!"
-msgstr ""
+msgstr "::name::!"
 
 #. --------
 #. msgid "Haut fait : ::title::"
 #: src/ui/LogManager.hx:289
 msgid "Achievement: ::title::"
-msgstr ""
+msgstr "Logro: ::title::"
 
 #. --------
 #. msgid "Schéma pour avoir terminé ::num:: fois le Défi Quotidien :"
@@ -5887,19 +5887,19 @@ msgstr ""
 #. msgid "Roulade"
 #: src/ui/Options.hx:250 src/ui/Options.hx:329
 msgid "Roll"
-msgstr ""
+msgstr "Rodar"
 
 #. --------
 #. msgid "Compétence gauche"
 #: src/ui/Options.hx:253 src/ui/Options.hx:332
 msgid "Left skill"
-msgstr ""
+msgstr "Habilidad izquierda"
 
 #. --------
 #. msgid "Compétence droite"
 #: src/ui/Options.hx:254 src/ui/Options.hx:333
 msgid "Right skill"
-msgstr ""
+msgstr "Habilidad derecha"
 
 #. --------
 #. msgid "Utiliser"
@@ -5910,7 +5910,7 @@ msgstr ""
 #: src/en/inter/SubTeleporter.hx:38 src/en/inter/VineLadder.hx:221
 #: src/en/inter/elevator/SimpleElevator.hx:12
 msgid "Use"
-msgstr ""
+msgstr "Usar"
 
 #. --------
 #. msgid "Quitter/rejoindre le corps"
@@ -5922,7 +5922,7 @@ msgstr ""
 #. msgid "Voir la carte"
 #: src/ui/Options.hx:267 src/ui/Options.hx:346
 msgid "View map"
-msgstr ""
+msgstr "Ver mapa"
 
 #. --------
 #. msgid "Left stick deadzone"
@@ -5934,7 +5934,7 @@ msgstr ""
 #. msgid "CLAVIER - SOURIS"
 #: src/ui/Options.hx:287 src/ui/Options.hx:316
 msgid "KEYBOARD/MOUSE"
-msgstr ""
+msgstr "TECLADO/MOUSE"
 
 #. --------
 #. msgid "U29_REBIND_KEYBOARD"
@@ -6039,7 +6039,7 @@ msgstr ""
 
 #: src/ui/Options.hx:372
 msgid "GAMEPLAY"
-msgstr ""
+msgstr "JUGABILIDAD"
 
 #. --------
 #. msgid "Rester appuyé pour attaquer"
@@ -6150,12 +6150,14 @@ msgstr ""
 #: src/ui/Options.hx:435
 msgid "Disable the attack warning coming from offscreen enemies"
 msgstr ""
+"Desactivar el aviso de ataque proveniente de enemigos fuera de pantalla"
 
 #. --------
 #. msgid "Cache le \"{!@CC}\" lorsqu'un ennemi va attaquer depuis l'extérieur de l'écran."
 #: src/ui/Options.hx:435
 msgid "Disable the \"{!@CC}\" when a enemy is about to attack from offscreen"
 msgstr ""
+"Desactivar el \"{!@CC}\" cuando un enemigo fuera de pantalla está por atacar"
 
 #. --------
 #. msgid "U29_ATTACK_ANNOUNCE_SCALE"
@@ -6167,7 +6169,7 @@ msgstr ""
 #. msgid "Activer les effets chroma"
 #: src/ui/Options.hx:442
 msgid "Activate Chroma"
-msgstr ""
+msgstr "Activar Chroma"
 
 #. --------
 #. msgid "Permet d'activer les effets lumineux Chroma sur vos matériels Razer."
@@ -6185,7 +6187,7 @@ msgstr ""
 #. msgid "U29_DISABLE_LORE_ROOMS"
 #: src/ui/Options.hx:459
 msgid "Disable lore rooms"
-msgstr ""
+msgstr "Desactivar salas de historia"
 
 #. --------
 #. msgid "Les salles de narration optionnelles ne seront plus générées dans les niveaux."
@@ -6207,19 +6209,19 @@ msgstr ""
 
 #: src/ui/Options.hx:465
 msgid "Disable Gameplay Slow Motion"
-msgstr ""
+msgstr "Desactivar Cámara Lenta del Gameplay"
 
 #. --------
 #. msgid "U29_GAMEPLAY_SEPARATOR_STEAM"
 #: src/ui/Options.hx:469
 msgid "Steam options"
-msgstr ""
+msgstr "Opciones de Steam"
 
 #. --------
 #. msgid "Activer la synchronisation Steam Cloud"
 #: src/ui/Options.hx:472
 msgid "Activate Steam Cloud synchronization."
-msgstr ""
+msgstr "Activar la sincronización con Steam Cloud"
 
 #. --------
 #. msgid ""
@@ -6228,7 +6230,7 @@ msgstr ""
 #: src/ui/Options.hx:472
 msgid ""
 "We recommend that you deactivate this function if you want to play offline."
-msgstr ""
+msgstr "Te recomendamos desactivar esta función si querés jugar offline."
 
 #. --------
 #. msgid ""
@@ -6246,7 +6248,7 @@ msgstr ""
 #. msgid "Activer l'interface des mods"
 #: src/ui/Options.hx:495
 msgid "Activate the mod interface"
-msgstr ""
+msgstr "Activar la interfaz de mods"
 
 #. --------
 #. msgid ""
@@ -6269,7 +6271,7 @@ msgstr ""
 #. msgid "VIDÉO"
 #: src/ui/Options.hx:514
 msgid "VIDEO"
-msgstr ""
+msgstr "VIDEO"
 
 #. --------
 #. msgid "Plein écran"
@@ -8005,7 +8007,7 @@ msgstr ""
 #: res/data.cdb:loreRoom/#78.examinables/#1.label
 #: res/data.cdb:loreRoom/#84.examinables/#2.label
 msgid "???"
-msgstr ""
+msgstr "???"
 
 #. --------
 #. msgid "Que vous avez tué"
@@ -8313,19 +8315,19 @@ msgstr ""
 #. msgid "Ouch !"
 #: src/cine/coll/SmashCinem.hx:30
 msgid "Ouch!"
-msgstr ""
+msgstr "Ay!"
 
 #. --------
 #. msgid "Aïe !"
 #: src/cine/coll/SmashCinem.hx:31
 msgid "Ahhh!"
-msgstr ""
+msgstr "Ahhh!"
 
 #. --------
 #. msgid "Urgh !"
 #: src/cine/coll/SmashCinem.hx:32
 msgid "Urgh!"
-msgstr ""
+msgstr "Ugh!"
 
 #. --------
 #. msgid "Vous ne pouvez me vaincre !"
@@ -8363,7 +8365,7 @@ msgstr ""
 #. msgid "J’ai tellement crunché pour en arriver là !"
 #: src/cine/coll/SmashCinem.hx:44
 msgid "Mommy!"
-msgstr ""
+msgstr "Mami!"
 
 #. --------
 #. msgid "Je n’avais jamais remarqué à quel point le carrelage était froid."
@@ -8627,11 +8629,11 @@ msgstr ""
 #. msgid "U28_BANK_NAME"
 #: src/en/inter/BankEntrance.hx:89
 msgid "The Bank"
-msgstr ""
+msgstr "El Banco"
 
 #: src/en/inter/BankEntrance.hx:97
 msgid "Go to the Bank"
-msgstr ""
+msgstr "Andá al Banco"
 
 #. --------
 #. msgid "Cette porte s'ouvrira à la fin des votes en cours."
@@ -8671,7 +8673,7 @@ msgstr ""
 #: src/en/inter/zdoor/ConditionalZDoor.hx:136
 #: src/en/inter/zdoor/RunicZDoor.hx:156
 msgid "Open"
-msgstr ""
+msgstr "Abrir"
 
 #. --------
 #. msgid "Inspecter"
@@ -8680,7 +8682,7 @@ msgstr ""
 #: src/en/inter/Gardener.hx:28 src/en/inter/HotkBossCellNote.hx:30
 #: src/en/inter/TentacleNote.hx:26
 msgid "Inspect"
-msgstr ""
+msgstr "Revisar"
 
 #. --------
 #. msgid "Drôle d'idée d'avoir placé une tombe sous terre..."
@@ -9164,7 +9166,7 @@ msgstr ""
 #: src/en/inter/ItemDrop.hx:194 src/en/inter/ItemDrop.hx:196
 #: src/en/inter/ItemDrop.hx:201 src/en/loot/Blueprint.hx:50
 msgid "Pick up"
-msgstr ""
+msgstr "Agarrar"
 
 #. --------
 #. msgid "Artefact inconnu"
@@ -9177,7 +9179,7 @@ msgstr ""
 #: src/en/inter/KingsHandBomb.hx:78 src/en/inter/KingsHandBomb.hx:81
 #: src/en/inter/KingsHandBomb.hx:84
 msgid "Destroy"
-msgstr ""
+msgstr "Destruir"
 
 #. --------
 #. msgid "Eliminez les ennemis proches d'abord"
@@ -9192,7 +9194,7 @@ msgstr ""
 #: src/en/inter/npc/Collector.hx:67 src/en/inter/npc/CollectorIntern.hx:72
 #: src/en/inter/npc/SewerCreature.hx:434
 msgid "Talk"
-msgstr ""
+msgstr "Hablar"
 
 #. --------
 #. msgid "Pff... Pas moyen de trouver un bon morceau ici..."
@@ -10198,7 +10200,7 @@ msgstr ""
 #. msgid "OUVREZ LE COFFRE !"
 #: src/tool/vote/OpenChest.hx:37
 msgid "OPEN THE CHEST!"
-msgstr ""
+msgstr "ABRIR EL COFRE!"
 
 #. --------
 #. msgid "Premier coup porté par @::user::."
@@ -18635,7 +18637,7 @@ msgstr ""
 #. msgid "Tenue Drifter"
 #: res/data.cdb:item/#386.name
 msgid "Drifter Outfit"
-msgstr ""
+msgstr "Trajecito de Vagabundo"
 
 #. PrisonerHyperlight (gameplayDesc)
 #.
@@ -18651,7 +18653,7 @@ msgstr ""
 #. msgid "Tenue des Mille et une Nuits."
 #: res/data.cdb:item/#387.name
 msgid "A Thousand and One Nights Outfit"
-msgstr ""
+msgstr "Trajecito de Las mil y una noches"
 
 #. PrisonerAladdin (gameplayDesc)
 #.
@@ -18667,7 +18669,7 @@ msgstr ""
 #. msgid "Tenue du Bison"
 #: res/data.cdb:item/#388.name
 msgid "Dictator Outfit"
-msgstr ""
+msgstr "Trajecito de Dictador"
 
 #. PrisonerBison (gameplayDesc)
 #.
@@ -18683,7 +18685,7 @@ msgstr ""
 #. msgid "Tenue du Guerrier"
 #: res/data.cdb:item/#389.name
 msgid "Warrior Outfit"
-msgstr ""
+msgstr "Trajecito de Guerrero"
 
 #. PrisonerWarrior (gameplayDesc)
 #.
@@ -18699,7 +18701,7 @@ msgstr ""
 #. msgid "Tenue du Mage"
 #: res/data.cdb:item/#390.name
 msgid "Mage Outfit"
-msgstr ""
+msgstr "Trajecito de Mago"
 
 #. PrisonerMage (gameplayDesc)
 #.
@@ -18715,7 +18717,7 @@ msgstr ""
 #. msgid "Tenue Néon"
 #: res/data.cdb:item/#391.name
 msgid "Neon Outfit"
-msgstr ""
+msgstr "Trajecito de Neón"
 
 #. PrisonerNeon (gameplayDesc)
 #.
@@ -18723,7 +18725,7 @@ msgstr ""
 #. msgid "La discrétion c'est pour les loosers."
 #: res/data.cdb:item/#391.gameplayDesc
 msgid "Stealth is for losers."
-msgstr ""
+msgstr "El sigilo es para los perdedores."
 
 #. PrisonerBobby (name)
 #.
@@ -18731,7 +18733,7 @@ msgstr ""
 #. msgid "Tenue de Bobby"
 #: res/data.cdb:item/#392.name
 msgid "Bobby Outfit"
-msgstr ""
+msgstr "Trajecito de Bobby"
 
 #. PrisonerBobby (gameplayDesc)
 #.
@@ -18739,7 +18741,7 @@ msgstr ""
 #. msgid "La tenue du prisonnier Bobby."
 #: res/data.cdb:item/#392.gameplayDesc
 msgid "Prisoner Bobby's outfit."
-msgstr ""
+msgstr "Trajecito del prisionero Bobby."
 
 #. PrisonerDemon (name)
 #.
@@ -18747,7 +18749,7 @@ msgstr ""
 #. msgid "Tenue du Démon"
 #: res/data.cdb:item/#393.name
 msgid "Demon Outfit"
-msgstr ""
+msgstr "Trajecito de Demonio"
 
 #. PrisonerDemon (gameplayDesc)
 #.
@@ -18755,7 +18757,7 @@ msgstr ""
 #. msgid "On a tous un côté tr0 d4rk 3n nous."
 #: res/data.cdb:item/#393.gameplayDesc
 msgid "W3 4ll h4ve 0ur d4rk sid3."
-msgstr ""
+msgstr "T0d0s t3n3m0s nu3str0 l4d0 0scur0."
 
 #. PrisonerSylvanian (name)
 #.
@@ -18763,7 +18765,7 @@ msgstr ""
 #. msgid "Tenue d'archer sylvestre romantique"
 #: res/data.cdb:item/#394.name
 msgid "Robin Hood Outfit"
-msgstr ""
+msgstr "Trajecito de Robin Hood"
 
 #. PrisonerSylvanian (gameplayDesc)
 #.
@@ -18771,7 +18773,7 @@ msgstr ""
 #. msgid "La flèche est plus forte que l'épée."
 #: res/data.cdb:item/#394.gameplayDesc
 msgid "The arrow is mightier than the sword!"
-msgstr ""
+msgstr "¡La flecha es más poderosa que la espada!"
 
 #. PrisonerSand (name)
 #.
@@ -18779,7 +18781,7 @@ msgstr ""
 #. msgid "Tenue de la prison du désert."
 #: res/data.cdb:item/#395.name
 msgid "Desert Dweller Outfit"
-msgstr ""
+msgstr "Trajecito de Morador del Desierto"
 
 #. PrisonerSand (gameplayDesc)
 #.
@@ -18787,7 +18789,7 @@ msgstr ""
 #. msgid "Sent le sable chaud, mais gratte les poplités."
 #: res/data.cdb:item/#395.gameplayDesc
 msgid "Smells of hot sand and desert nights."
-msgstr ""
+msgstr "Huele a arena caliente y noches desérticas."
 
 #. PrisonerGOG (name)
 #.
@@ -18795,7 +18797,7 @@ msgstr ""
 #. msgid "Tenue Galaxy"
 #: res/data.cdb:item/#396.name
 msgid "Galaxy Outfit"
-msgstr ""
+msgstr "Trajecito Galáctico"
 
 #. PrisonerGOG (gameplayDesc)
 #.
@@ -18803,7 +18805,7 @@ msgstr ""
 #. msgid "Une tenue sans DRM !"
 #: res/data.cdb:item/#396.gameplayDesc
 msgid "A DRM-free outfit !"
-msgstr ""
+msgstr "Trajecito libre de DRM!"
 
 #. PrisonerFrench (name)
 #.
@@ -18811,7 +18813,7 @@ msgstr ""
 #. msgid "Tenue Baguette"
 #: res/data.cdb:item/#397.name
 msgid "Baguette Outfit"
-msgstr ""
+msgstr "Trajecito de Baguette"
 
 #. PrisonerFrench (gameplayDesc)
 #.
@@ -20998,7 +21000,7 @@ msgstr ""
 #. msgid "SURVIE"
 #: res/data.cdb:affix/#0.desc
 msgid "SURVIVAL"
-msgstr ""
+msgstr "SUPERVIVENCIA"
 
 #. BrutalityUp (desc)
 #.
@@ -21006,7 +21008,7 @@ msgstr ""
 #. msgid "BRUTALITÉ"
 #: res/data.cdb:affix/#1.desc
 msgid "BRUTALITY"
-msgstr ""
+msgstr "BRUTALIDAD"
 
 #. TacticUp (desc)
 #.
@@ -21014,12 +21016,12 @@ msgstr ""
 #. msgid "TACTIQUE"
 #: res/data.cdb:affix/#2.desc
 msgid "TACTICS"
-msgstr ""
+msgstr "TÁCTICA"
 
 #. ColorlessUp (desc)
 #: res/data.cdb:affix/#3.desc
 msgid "COLORLESS"
-msgstr ""
+msgstr "SIN COLOR"
 
 #. Colorless (desc)
 #.
@@ -21027,7 +21029,7 @@ msgstr ""
 #. msgid "Incolore (le tier le plus élevé s'applique)."
 #: res/data.cdb:affix/#9.desc
 msgid "Colorless (the highest level applies)."
-msgstr ""
+msgstr "Sin color (aplica el nivel más alto)."
 
 #. CantBeSold (desc)
 #.
@@ -21035,7 +21037,7 @@ msgstr ""
 #. msgid "Ne peut être vendu."
 #: res/data.cdb:affix/#11.desc
 msgid "Cannot be sold"
-msgstr ""
+msgstr "No puede ser vendida"
 
 #. InfectedFood (desc)
 #.
@@ -21043,7 +21045,7 @@ msgstr ""
 #. msgid "Nourriture infectée par le Mal-être."
 #: res/data.cdb:affix/#13.desc
 msgid "Food infected with the Malaise"
-msgstr ""
+msgstr "Comida infectada con Malestar"
 
 #. CleanFood (desc)
 #.
@@ -21556,7 +21558,7 @@ msgstr ""
 #. msgid "Capable de briser les boucliers"
 #: res/data.cdb:affix/#83.desc
 msgid "Can break shields"
-msgstr ""
+msgstr "Puede romper escudos"
 
 #. HeavyStun (desc)
 #.
@@ -21827,7 +21829,7 @@ msgstr ""
 #. msgid "Génère un bouclier à l'usage."
 #: res/data.cdb:affix/#120.desc
 msgid "Generates a shield when used."
-msgstr ""
+msgstr "Hace un escudo cuando es usado."
 
 #. SeeInvisible (desc)
 #.
@@ -21835,7 +21837,7 @@ msgstr ""
 #. msgid "Révèle les ennemis invisibles."
 #: res/data.cdb:affix/#121.desc
 msgid "Reveals invisible enemies."
-msgstr ""
+msgstr "Muestra enemigos invisibles."
 
 #. HealMidLife (desc)
 #.
@@ -30695,7 +30697,7 @@ msgstr ""
 #. msgid "oh !"
 #: res/data.cdb:loreRoom/#111.examinables/#1.events/#2.text
 msgid "Oh!"
-msgstr ""
+msgstr "Oh!"
 
 #. SwampPantry (examinables) coldRoomCorpse (events) (text)
 #.
@@ -31091,7 +31093,7 @@ msgstr ""
 #. msgid "boat"
 #: res/data.cdb:loreRoom/#126.examinables/#0.label
 msgid "Boat"
-msgstr ""
+msgstr "Bote"
 
 #. CliffBoatext (examinables) boat (events) (text)
 #: res/data.cdb:loreRoom/#126.examinables/#0.events/#0.text
@@ -31179,7 +31181,7 @@ msgstr ""
 #. TortureRoom (examinables) Door (label)
 #: res/data.cdb:loreRoom/#131.examinables/#0.label
 msgid "Door"
-msgstr ""
+msgstr "Puerta"
 
 #. TortureRoom (examinables) Tank (label)
 #: res/data.cdb:loreRoom/#131.examinables/#2.label
@@ -31382,7 +31384,7 @@ msgstr ""
 #. ShipwreckTridentRoom (examinables) Trident (label)
 #: res/data.cdb:loreRoom/#141.examinables/#0.label
 msgid "Trident"
-msgstr ""
+msgstr "Tridente"
 
 #. ShipwreckTridentRoom (examinables) Trident (events) (text)
 #.
@@ -31781,92 +31783,92 @@ msgstr ""
 #. --------
 #. msgid "Accès anticipé (::version::)"
 msgid "Early access (::version::)"
-msgstr ""
+msgstr "Acceso Anticipado (::version::)"
 
 #. Deprecated
 msgid "v1.0 (::version::)"
-msgstr ""
+msgstr "v1.0 (::version::)"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Forum Accès anticipé"
 msgid "Early Access forum"
-msgstr ""
+msgstr "Foro de Acceso Anticipado"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Continuer (mode streaming)"
 msgid "Continue (Streaming Mode)"
-msgstr ""
+msgstr "Seguir (Modo Streaming)"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Mode streaming"
 msgid "Streaming Mode"
-msgstr ""
+msgstr "Modo Streaming"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "(vide)"
 msgid "(empty)"
-msgstr ""
+msgstr "(vacío)"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "(bloqué)"
 msgid "(locked)"
-msgstr ""
+msgstr "(bloqueado)"
 
 #. Deprecated
 msgid "(::d::/::m::/::y:: ::hour::)"
-msgstr ""
+msgstr "(::d::/::m::/::y:: ::hour::)"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Importer ::slot::"
 msgid "Import ::slot::"
-msgstr ""
+msgstr "Importar ::slot::"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Créer une nouvelle sauvegarde"
 msgid "Start a new save"
-msgstr ""
+msgstr "Empezar un nuevo guardado"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Réinitialiser ma sauvegarde expérimentale"
 msgid "Reset my experimental save"
-msgstr ""
+msgstr "Resetear mi guardado experimental"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Confirmer la suppression"
 msgid "Confirm delete"
-msgstr ""
+msgstr "Confirmar eliminacion"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "Effaçer toute la progression de cette sauvegarde"
 msgid "Delete all progress in this save"
-msgstr ""
+msgstr "Borrar todo el progreso en este guardado"
 
 #. Deprecated
 #.
 #. --------
 #. msgid "VERROUILLÉ"
 msgid "LOCKED"
-msgstr ""
+msgstr "BLOQUEADO"
 
 #. Deprecated
 #.
@@ -33325,7 +33327,7 @@ msgstr ""
 #. Deprecated
 #. BossRune5 (gameplayDesc)
 msgid "UNUSED"
-msgstr ""
+msgstr "EN DESUSO"
 
 #. Deprecated
 #. TwitchAnyUp (name)
@@ -33551,7 +33553,7 @@ msgstr ""
 #. --------
 #. msgid "Fantôme"
 msgid "Ghost"
-msgstr ""
+msgstr "Fantasma"
 
 #. Deprecated
 #. BuriedBat (name)
@@ -33743,4 +33745,4 @@ msgstr ""
 #. --------
 #. msgid "Debug Gwen"
 msgid "Gwen debug"
-msgstr ""
+msgstr "Gwen debug"
