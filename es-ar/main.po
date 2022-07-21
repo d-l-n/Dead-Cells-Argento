@@ -41,7 +41,7 @@ msgid ""
 "\n"
 "Your achievements won't be saved until you restart the game."
 msgstr ""
-"Origen no disponible\n"
+"Origen no disponible.\n"
 "\n"
 "Tus logros no se van a guardar hasta que reinicies el juego."
 
@@ -49,7 +49,7 @@ msgstr ""
 #. msgid "Quitter le jeu"
 #: src/Boot.hx:592 src/pr/TitleScreen.hx:400
 msgid "Quit game"
-msgstr "Salir del juego"
+msgstr "Quiero salir del juego"
 
 #. --------
 #. msgid "{Temps total de la partie@ST}\n::time::"
@@ -432,7 +432,7 @@ msgstr ""
 #. msgid "Tic... Tac..."
 #: src/Lang.hx:676
 msgid "Tic... Toc..."
-msgstr ""
+msgstr "Tic... Toc..."
 
 #. --------
 #. msgid "Bataille au sommet"
@@ -848,7 +848,7 @@ msgstr ""
 #. msgid "Moi jaloux ?"
 #: src/Lang.hx:758
 msgid "Me, jealous?"
-msgstr ""
+msgstr "Yo, celoso?"
 
 #. --------
 #. msgid "A là CloClo"
@@ -962,7 +962,7 @@ msgstr ""
 #. msgid "U28_ACHIEV_TITLE_FIGHT_BEAT_MIMIC"
 #: src/Lang.hx:787
 msgid "Bag of Tricks"
-msgstr ""
+msgstr "Bolsa de Trucos"
 
 #. --------
 #. msgid "Bravo, tout simplement, bravo."
@@ -1078,97 +1078,97 @@ msgstr ""
 #. msgid "Vous avez absorbé la Rune des Vignes !"
 #: src/Lang.hx:811
 msgid "Absorb the Vine Rune."
-msgstr ""
+msgstr "Absorbiste la Runa de Enredadera."
 
 #. --------
 #. msgid "Vous avez absorbé la Rune de Téléportation !"
 #: src/Lang.hx:812
 msgid "Absorb the Teleportation rune."
-msgstr ""
+msgstr "Absorbiste la Runa de Teletransportación."
 
 #. --------
 #. msgid "Vous avez absorbé la Rune du Challenger !"
 #: src/Lang.hx:813
 msgid "Absorb the Challenger Rune!"
-msgstr ""
+msgstr "¡Absorbiste la Runa Desafiante!"
 
 #. --------
 #. msgid "Vous avez absorbé la Rune de l'Araignée !"
 #: src/Lang.hx:814
 msgid "Absorb the Spider's Rune!"
-msgstr ""
+msgstr "¡Absorbiste la Runa de la Araña!"
 
 #. --------
 #. msgid "Vous avez absorbé la Rune du Bélier !"
 #: src/Lang.hx:815
 msgid "Absorb the Ram's Rune."
-msgstr ""
+msgstr "¡Absorbiste la Runa de Ram!"
 
 #. --------
 #. msgid "Vous avez battu \"Le Concierge\" !"
 #: src/Lang.hx:817
 msgid "You beat \"The Concierge\"!"
-msgstr ""
+msgstr "¡Venciste a \"El Conserje\"!"
 
 #. --------
 #. msgid "Vous avez vaincu \"Le Concierge\" sans prendre le moindre coup !"
 #: src/Lang.hx:818
 msgid "You beat \"The Concierge\" without taking a single hit!"
-msgstr ""
+msgstr "¡Venciste al \"Guardián del tiempo\" sin recibir ni un golpe!"
 
 #. --------
 #. msgid "Vous avez battu \"Conjonctivius\" !"
 #: src/Lang.hx:819
 msgid "You beat \"Conjunctivius\"!"
-msgstr ""
+msgstr "¡Venciste a \"Conjunctivius\"!"
 
 #. --------
 #. msgid "Vous avez vaincu \"Conjonctivius\" sans prendre le moindre coup !"
 #: src/Lang.hx:820
 msgid "You beat \"Conjunctivius\" without taking a single hit!"
-msgstr ""
+msgstr "¡Venciste a \"Conjunctivius\" sin recibir ni un golpe!"
 
 #. --------
 #. msgid "Vous avez battu la Gardienne du Temps !"
 #: src/Lang.hx:821
 msgid "You have beaten the \"Time Keeper\"!"
-msgstr ""
+msgstr "¡Venciste al \"Guardián del tiempo\"!"
 
 #. --------
 #. msgid "Vous avez battu la Gardienne du Temps sans prendre le moindre coup !"
 #: src/Lang.hx:822
 msgid "You beat the \"Time Keeper\" without taking a single hit."
-msgstr ""
+msgstr "Venciste al \"Guardián del tiempo\" sin recibir ni un golpe."
 
 #. --------
 #. msgid "Vous avez battu la Main du Roi !"
 #: src/Lang.hx:823
 msgid "Beat the Hand of the King."
-msgstr ""
+msgstr "Vencé a la Mano del Rey."
 
 #. --------
 #. msgid "Vous avez battu La Main du Roi sans prendre le moindre coup !"
 #: src/Lang.hx:824
 msgid "Beat the Hand of the King without taking a single hit."
-msgstr ""
+msgstr "Vencé a la Mano del Rey sin recibir ni un golpe."
 
 #. --------
 #. msgid "Vous avez triomphé de près de 100 monstres élites !"
 #: src/Lang.hx:825
 msgid "You slayed 100 elites. Badman."
-msgstr ""
+msgstr "Mataste a 100 élites. Malote."
 
 #. --------
 #. msgid "Vous avez débloqué 10 armes !"
 #: src/Lang.hx:826
 msgid "Unlock 10 weapons."
-msgstr ""
+msgstr "Desbloqueá 10 armas."
 
 #. --------
 #. msgid "Vous avez débloqué 10 actifs !"
 #: src/Lang.hx:827
 msgid "Unlock 10 skills."
-msgstr ""
+msgstr "Desbloqueá 10 habilidades."
 
 #. --------
 #. msgid "Vous avez terminé le jeu avec \"l'Ygdar Orus Li Ox\" en votre possession !"
@@ -1733,6 +1733,7 @@ msgid ""
 "Your score cannot be saved. To save it, you must be connected to ::"
 "platform::."
 msgstr ""
+"Tu puntuación no se puede guardar. Tenés que estar conectado a ::platform::."
 
 #. --------
 #. msgid "Échec"
@@ -1744,7 +1745,7 @@ msgstr "Fallaste"
 #. msgid "Votre version n'est pas à jour. Veuillez mettre à jour le jeu, s'il vous plaît."
 #: src/Main.hx:384
 msgid "Your version is out of date. Please update the game."
-msgstr ""
+msgstr "Tu versión está desactualizada. Actualizá el juego."
 
 #. --------
 #. msgid "Problème de connexion au serveur.\nVeuillez vérifier votre connexion internet."
@@ -1753,6 +1754,8 @@ msgid ""
 "There is a problem connecting to the server.\n"
 "Please check your internet connection."
 msgstr ""
+"Hay un problema al conectar con el servidor.\n"
+"Revisá tu conexión a internet."
 
 #. Backspace key
 #.
@@ -1765,7 +1768,7 @@ msgstr ""
 #. msgid "Retour || Backspace key"
 #: src/Options.hx:1064
 msgid "Backspace"
-msgstr ""
+msgstr "Retroceso"
 
 #: src/Options.hx:1065
 msgid "Tab"
@@ -2238,13 +2241,13 @@ msgstr ""
 #. msgid "Qu'est ce que..."
 #: src/cine/DoubleHero.hx:128
 msgid "What the..."
-msgstr "Pero qué"
+msgstr "Pero qué..."
 
 #. --------
 #. msgid "Vous... Ici ?"
 #: src/cine/EnterGiantRoom.hx:140
 msgid "You... here?"
-msgstr "Vos... acá?"
+msgstr "Vos... ¿acá?"
 
 #. --------
 #. msgid "Le Mal-être vous a bien changé !"
@@ -2286,19 +2289,19 @@ msgstr ""
 #. msgid "MOUREZ!!!"
 #: src/cine/EnterGiantRoom.hx:208
 msgid "DIE!"
-msgstr ""
+msgstr "¡MORITE!"
 
 #. --------
 #. msgid "Mon... Mon roi ??"
 #: src/cine/EnterThroneRoomAsKing.hx:63
 msgid "My... My King?"
-msgstr ""
+msgstr "Mi... ¿Mi Rey?"
 
 #. --------
 #. msgid "Comment est-ce possible ?"
 #: src/cine/EnterThroneRoomAsKing.hx:78
 msgid "How is that possible?"
-msgstr ""
+msgstr "¿Cómo es eso posible?"
 
 #: src/cine/EnterThroneRoomAsKing.hx:91
 msgid "?!"
@@ -2316,25 +2319,25 @@ msgstr "?!?!"
 #. msgid "Attendez... vous n'êtes pas le Roi !"
 #: src/cine/EnterThroneRoomAsKing.hx:126
 msgid "Wait... You're not the King!"
-msgstr "Bancá... No sos el Rey!"
+msgstr "Bancá... ¡No sos el Rey!"
 
 #. --------
 #. msgid "Vous lui avez volé son corps !"
 #: src/cine/EnterThroneRoomAsKing.hx:131
 msgid "Did you steal his body?"
-msgstr "Te robaste su cuerpo?"
+msgstr "¿Te robaste su cuerpo?"
 
 #. --------
 #. msgid "IMPOSTEUR !!"
 #: src/cine/EnterThroneRoomAsKing.hx:141
 msgid "Thief!"
-msgstr "Choro!"
+msgstr "¡Choro!"
 
 #. --------
 #. msgid "VOUS!!!"
 #: src/cine/EnterTimeKeeperRoomFirst.hx:71
 msgid "You!"
-msgstr "Vos!"
+msgstr "¡Vos!"
 
 #. --------
 #. msgid ""
@@ -2459,14 +2462,14 @@ msgstr ""
 #. msgid "Mon roi..."
 #: src/cine/GiantDeath.hx:137 src/cine/GiantDeath.hx:270
 msgid "My King..."
-msgstr ""
+msgstr "Mi Rey..."
 
 #. --------
 #. msgid "Vous..."
 #: src/cine/GiantDeath.hx:148 src/cine/GiantDeath.hx:281
 #: src/cine/coll/EndCollectorPreSmash.hx:50
 msgid "You..."
-msgstr ""
+msgstr "Vos..."
 
 #. --------
 #. msgid "VOUS ETES UN GROS CON !!!"
@@ -2520,7 +2523,7 @@ msgstr ""
 #. msgid "U29_CONTINUE_CONFIRMATION"
 #: src/cine/HeroDeathContinue.hx:46
 msgid "Continue?"
-msgstr ""
+msgstr "Seguir?"
 
 #. --------
 #. msgid "U29_CONTINUE_CONFIRMATION_DESC"
@@ -2844,25 +2847,25 @@ msgstr ""
 #. msgid "{Survie@SU} augmentée !"
 #: src/en/Hero.hx:1724
 msgid "{Survival@SU} increased!"
-msgstr ""
+msgstr "¡{Survival@SU} aumentó!"
 
 #. --------
 #. msgid "{Brutalité@BR} augmentée !"
 #: src/en/Hero.hx:1729
 msgid "{Brutality@BR} increased!"
-msgstr ""
+msgstr "¡{Brutality@BR} aumentó!"
 
 #. --------
 #. msgid "{Tactique@TA} augmentée !"
 #: src/en/Hero.hx:1734
 msgid "{Tactics@TA} increased!"
-msgstr ""
+msgstr "¡{Tactics@TA} aumentó!"
 
 #. --------
 #. msgid "Sans effet"
 #: src/en/Hero.hx:1813
 msgid "No effect"
-msgstr ""
+msgstr "Sin efecto"
 
 #. --------
 #. msgid "+::prct::% PV"
@@ -2870,7 +2873,7 @@ msgstr ""
 #. msgid "+::prct::% PV."
 #: src/en/Hero.hx:1816
 msgid "+::prct::% HP"
-msgstr ""
+msgstr "+::prct::% VIDA"
 
 #. --------
 #. msgid "Nourriture infectée par le Mal-être"
@@ -2888,37 +2891,37 @@ msgstr ""
 #. msgid "Corruption interrompue"
 #: src/en/Hero.hx:1901
 msgid "Corruption interrupted"
-msgstr ""
+msgstr "Corrupción interrumpida"
 
 #. --------
 #. msgid "::n:: {iconCoin@img} retrouvé"
 #: src/en/Hero.hx:1908
 msgid "::n:: {iconCoin@img} found"
-msgstr ""
+msgstr "::n:: {iconCoin@img} encontrado"
 
 #. --------
 #. msgid "::n:: Cellule retrouvée"
 #: src/en/Hero.hx:1914
 msgid "::n:: Cell regained"
-msgstr ""
+msgstr "::n:: Célula recuperada"
 
 #. --------
 #. msgid "::n:: Cellules retrouvées"
 #: src/en/Hero.hx:1914
 msgid "::n:: Cells regained"
-msgstr ""
+msgstr "::n:: Células recuperadas"
 
 #. --------
 #. msgid "Vous avez ramassé un artefact maudit !"
 #: src/en/Hero.hx:1931
 msgid "You picked up a cursed artifact!"
-msgstr ""
+msgstr "¡Agarraste un artefacto maldito!"
 
 #. --------
 #. msgid "Esquiver"
 #: src/en/Hero.hx:2209 src/en/Hero.hx:2212
 msgid "Dodge"
-msgstr ""
+msgstr "Esquivar"
 
 #. --------
 #. msgid "Vous avez offensé les Dieux !"
@@ -3137,7 +3140,7 @@ msgstr ""
 #. msgid "Yolo!"
 #: src/en/Mob.hx:2701 src/en/Mob.hx:2707
 msgid "YOLO!"
-msgstr "YOLO!"
+msgstr "¡YOLO!"
 
 #. --------
 #. msgid "Corps décapité"
@@ -3168,7 +3171,7 @@ msgstr ""
 #. msgid "Trop de vie!"
 #: src/pow/Pokecharge.hx:40
 msgid "Too much HP!"
-msgstr ""
+msgstr "¡Demasiada Vida!"
 
 #. --------
 #. msgid "Nouveau schéma découvert"
@@ -3219,7 +3222,7 @@ msgstr ""
 #. msgid "Accepter"
 #: src/pr/BetaDisclaimer.hx:83
 msgid "Accept"
-msgstr ""
+msgstr "Aceptar"
 
 #. --------
 #. msgid ""
@@ -3308,7 +3311,7 @@ msgstr ""
 #. msgid "Notre héros est mort(e) !"
 #: src/pr/Game.hx:1047
 msgid "Our hero is dead!"
-msgstr ""
+msgstr "¡Nuestro héroe está muerto!"
 
 #. --------
 #. msgid "Boss droit devant"
@@ -3761,31 +3764,31 @@ msgstr ""
 #. msgid "Nouveau DLC"
 #: src/tool/DLC.hx:194
 msgid "New DLC"
-msgstr ""
+msgstr "Nuevo DLC"
 
 #. --------
 #. msgid "Rise of The Giant"
 #: src/tool/DLC.hx:201
 msgid "Rise of the Giant"
-msgstr ""
+msgstr "Rise of the Giant"
 
 #: src/tool/DLC.hx:202
 msgid "The Bad Seed"
-msgstr ""
+msgstr "The Bad Seed"
 
 #: src/tool/DLC.hx:203
 msgid "Fatal Falls"
-msgstr ""
+msgstr "Fatal Falls"
 
 #: src/tool/DLC.hx:204
 msgid "The Queen and the Sea"
-msgstr ""
+msgstr "The Queen and the Sea"
 
 #. --------
 #. msgid "Nécessite le DLC ::dlcName::"
 #: src/tool/DLC.hx:290
 msgid "Requires ::dlcName:: DLC"
-msgstr ""
+msgstr "Requiere el DLC ::dlcName::"
 
 #. Switch terminology for Shop
 #.
@@ -3827,37 +3830,37 @@ msgstr ""
 #. msgid " {Brutalité@BR}"
 #: src/tool/InventItem.hx:750
 msgid "{Brutality@BR}"
-msgstr ""
+msgstr "{Brutality@BR}"
 
 #. --------
 #. msgid " {Tactique@TA}"
 #: src/tool/InventItem.hx:751
 msgid "{Tactics@TA}"
-msgstr ""
+msgstr "{Tactics@TA}"
 
 #. --------
 #. msgid " {Survie@SU}"
 #: src/tool/InventItem.hx:752
 msgid "{Survival@SU}"
-msgstr ""
+msgstr "{Survival@SU}"
 
 #. --------
 #. msgid " {Brutalité@BR} / {Tactique@TA}"
 #: src/tool/InventItem.hx:754
 msgid "{Brutality@BR} / {Tactics@TA}"
-msgstr ""
+msgstr "{Brutality@BR} / {Tactics@TA}"
 
 #. --------
 #. msgid " {Brutalité@BR} / {Survie@SU}"
 #: src/tool/InventItem.hx:756
 msgid "{Brutality@BR} / {Survival@SU}"
-msgstr ""
+msgstr "{Brutality@BR} / {Survival@SU}"
 
 #. --------
 #. msgid " {Tactique@TA} / {Survie@SU}"
 #: src/tool/InventItem.hx:758
 msgid "{Tactics@TA} / {Survival@SU}"
-msgstr ""
+msgstr "{Tactics@TA} / {Survival@SU}"
 
 #. --------
 #. msgid "Capacité active"
@@ -4141,7 +4144,7 @@ msgstr ""
 #. DLC possession warning
 #: src/ui/CollectorPanel.hx:238
 msgid "{Locked@LO}: requires DLC ::dlcName::"
-msgstr ""
+msgstr "{Locked@LO}: requiere el DLC ::dlcName::"
 
 #. --------
 #. msgid "{Verrouillé@LO} : débloquer ::n:: objets supplémentaires"
@@ -6221,7 +6224,7 @@ msgstr "Opciones de Steam"
 #. msgid "Activer la synchronisation Steam Cloud"
 #: src/ui/Options.hx:472
 msgid "Activate Steam Cloud synchronization."
-msgstr "Activar la sincronización con Steam Cloud"
+msgstr "Activar la sincronización con Steam Cloud."
 
 #. --------
 #. msgid ""
