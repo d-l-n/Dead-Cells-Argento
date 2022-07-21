@@ -2605,9 +2605,8 @@ msgstr ""
 #. --------
 #. msgid "Bon. Et maintenant, prisonnier..."
 #: src/cine/LeaveCollector.hx:51
-#, fuzzy
 msgid "Now... prisoner..."
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Ahora... preso..."
 
 #. --------
 #. msgid "HORS DE MA VUE ! Ta présence m'ennuie."
@@ -9848,9 +9847,8 @@ msgstr ""
 #. --------
 #. msgid "Dear prisonner,"
 #: src/en/inter/TentacleNote.hx:52
-#, fuzzy
 msgid "Dear prisoner,"
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Querido preso,"
 
 #: src/en/inter/TentacleNote.hx:55
 msgid "Tired of killing the same monsters over and over?"
@@ -9915,9 +9913,8 @@ msgstr ""
 #. --------
 #. msgid "Tenter d'ouvrir le coffre"
 #: src/en/inter/TwitchChest.hx:190
-#, fuzzy
 msgid "Try to open the chest"
-msgstr "ABRIR EL COFRE!"
+msgstr "Intentar abrir el cofre"
 
 #. --------
 #. msgid "Chatouiller"
@@ -9934,16 +9931,14 @@ msgstr ""
 #. --------
 #. msgid "Absorber"
 #: src/en/loot/BossCell.hx:78
-#, fuzzy
 msgid "Absorb"
-msgstr "Absorbiste la Runa de Enredadera."
+msgstr "Absorber"
 
 #. --------
 #. msgid "Tapez moi !"
 #: src/en/mob/Decoy.hx:163
-#, fuzzy
 msgid "Hit me!"
-msgstr "Yo, celoso?"
+msgstr "¡Golpeame!"
 
 #. --------
 #. msgid "Je suis sans défense !"
@@ -15519,7 +15514,7 @@ msgstr ""
 #. msgid "Hache de Boï"
 #: res/data.cdb:item/#146.name
 msgid "The Boy's Axe"
-msgstr ""
+msgstr "El Hacha del Wachin"
 
 #. GodAxe (gameplayDesc)
 #.
@@ -15537,7 +15532,7 @@ msgstr ""
 #. msgid "Boï."
 #: res/data.cdb:item/#146.ambiantDesc
 msgid "Boi."
-msgstr ""
+msgstr "Wachin."
 
 #. ThrowingSpear (name)
 #.
@@ -15545,7 +15540,7 @@ msgstr ""
 #. msgid "Javelot de guerre"
 #: res/data.cdb:item/#147.name
 msgid "War Javelin"
-msgstr ""
+msgstr "Jabalina de Guerra"
 
 #. ThrowingSpear (gameplayDesc)
 #.
@@ -15699,7 +15694,7 @@ msgstr ""
 #. msgid "Pyrotechnie"
 #: res/data.cdb:item/#154.name
 msgid "Pyrotechnics"
-msgstr ""
+msgstr "Pirotécnica"
 
 #. FireBall (gameplayDesc)
 #.
@@ -15747,7 +15742,7 @@ msgstr ""
 #. msgid "Lance-flammes"
 #: res/data.cdb:item/#156.name
 msgid "Fire blast"
-msgstr ""
+msgstr "Explosión de fuego"
 
 #. FlameThrower (name)
 #.
@@ -15755,7 +15750,7 @@ msgstr ""
 #. msgid "Lance-flammes"
 #: res/data.cdb:item/#156.name
 msgid "Fire Blast"
-msgstr ""
+msgstr "Explosión de Fuego"
 
 #. FlameThrower (gameplayDesc)
 #.
@@ -16256,9 +16251,8 @@ msgstr ""
 #. --------
 #. msgid "Collier de prisonnier"
 #: res/data.cdb:item/#180.name
-#, fuzzy
 msgid "Prisoner's Collar"
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Collar del Preso"
 
 #. PrisonerCloth (ambiantDesc)
 #.
@@ -16789,7 +16783,7 @@ msgstr "Absorbiste la Runa de Enredadera."
 #. msgid "Cette rune {permanente@PE} permet de faire pousser des vignes grimpantes."
 #: res/data.cdb:item/#226.gameplayDesc
 msgid "This {permanent@PE} rune causes climbing vines to grow."
-msgstr ""
+msgstr "Esta runa {permanent@PE} hace que crezcan enredaderas."
 
 #. TeleportKey (name)
 #.
@@ -16806,7 +16800,7 @@ msgstr "Absorbiste la Runa de Teletransportación."
 #. msgid "Cette rune {permanente@PE} permet d'utiliser les stèles de téléportation."
 #: res/data.cdb:item/#227.gameplayDesc
 msgid "This {permanent@PE} rune lets you use teleportation monoliths."
-msgstr ""
+msgstr "Esta runa {permanent@PE} te deja usar monolitos de teletransportación."
 
 #. ScoringKey (name)
 #.
@@ -16828,6 +16822,8 @@ msgid ""
 "This {permanent@PE} rune provides access to the daily challenge (Prisoners' "
 "Quarters)."
 msgstr ""
+"Esta runa {permanent@PE} dá acceso al desafío diario (Cuartos de "
+"Prisioneros)."
 
 #. CustomKey (name)
 #.
@@ -16844,7 +16840,7 @@ msgstr "Absorbiste la Runa de Enredadera."
 #. msgid "Cette rune {permanente@PE} permet de débloquer le Mode Personnalisé du jeu."
 #: res/data.cdb:item/#229.gameplayDesc
 msgid "This {permanent@PE} rune unlocks the Custom Mode."
-msgstr ""
+msgstr "Esta runa {permanent@PE} desbloquea el Modo Personalizado."
 
 #. BreakableGroundKey (name)
 #.
@@ -16861,7 +16857,7 @@ msgstr "¡Absorbiste la Runa de Ram!"
 #. msgid "Cette rune {permanente@PE} permet de casser certains sols."
 #: res/data.cdb:item/#230.gameplayDesc
 msgid "This {permanent@PE} rune lets you break through certain floors."
-msgstr ""
+msgstr "Esta runa {permanent@PE} te deja atravesar ciertos pisos."
 
 #. WallJumpKey (name)
 #.
@@ -16878,7 +16874,7 @@ msgstr "¡Absorbiste la Runa de la Araña!"
 #. msgid "Cette rune {permanente@PE} permet de vous agripper aux murs."
 #: res/data.cdb:item/#231.gameplayDesc
 msgid "This {permanent@PE} rune lets you cling to walls."
-msgstr ""
+msgstr "Esta runa {permanent@PE} te deja agarrarte de las paredes."
 
 #. HomKey (name)
 #.
@@ -16895,7 +16891,7 @@ msgstr "Absorbiste la Runa de Enredadera."
 #. msgid "Cette rune {permanente@PE} vous permet de vous extirper de votre corps."
 #: res/data.cdb:item/#232.gameplayDesc
 msgid "This {permanent@PE} rune lets you leave your body."
-msgstr ""
+msgstr "Esta runa {permanent@PE} te permite dejar tu cuerpo."
 
 #. ExploKey (name)
 #.
@@ -16917,6 +16913,9 @@ msgid ""
 "This {permanent@PE} rune reveals the whole map and its points of interest "
 "(scrolls, merchants, etc.) once you've explored most of the level."
 msgstr ""
+"Esta runa {permanent@PE} revela todo el mapa y sus puntos de interés "
+"(pergaminos, comerciantes, etc.) una vez que hayas explorado la mayor parte "
+"del nivel."
 
 #. BackPackKey (name)
 #.
@@ -16938,6 +16937,7 @@ msgid ""
 "This {permanent@PE} upgrade allows you to carry a weapon or shield in your "
 "backpack."
 msgstr ""
+"Esta mejora {permanent@PE} te deja tener un arma o escudo en tu mochila."
 
 #. Flask1 (name)
 #.
@@ -17109,7 +17109,7 @@ msgstr ""
 #. msgid "Recyclage I"
 #: res/data.cdb:item/#247.name
 msgid "Recycling I"
-msgstr ""
+msgstr "Reciclaje I"
 
 #. Recycling1 (gameplayDesc)
 #.
@@ -17125,7 +17125,7 @@ msgstr ""
 #. msgid "Recyclage II"
 #: res/data.cdb:item/#248.name
 msgid "Recycling II"
-msgstr ""
+msgstr "Reciclaje II"
 
 #. Recycling2 (gameplayDesc)
 #.
@@ -17161,7 +17161,7 @@ msgstr ""
 #. msgid "Catégories de marchandises"
 #: res/data.cdb:item/#250.name
 msgid "Merchandise Categories"
-msgstr ""
+msgstr "Categorías de mercancías"
 
 #. ShopCategories (gameplayDesc)
 #.
@@ -17244,7 +17244,7 @@ msgstr ""
 #. msgid "Sac à dos"
 #: res/data.cdb:item/#255.name
 msgid "Backpack"
-msgstr ""
+msgstr "Mochila"
 
 #. BackpackUnlock (gameplayDesc)
 #.
@@ -17562,7 +17562,7 @@ msgstr ""
 #. msgid "Grosse volaille"
 #: res/data.cdb:item/#280.name
 msgid "Drumstick"
-msgstr ""
+msgstr "Pata de pollo"
 
 #. SmallVeggie (name)
 #.
@@ -17570,7 +17570,7 @@ msgstr ""
 #. msgid "Carotte"
 #: res/data.cdb:item/#281.name
 msgid "Carrot"
-msgstr ""
+msgstr "Zanahoria"
 
 #. LargeVeggie (name)
 #.
@@ -17578,7 +17578,7 @@ msgstr ""
 #. msgid "Gros radis"
 #: res/data.cdb:item/#282.name
 msgid "Big ol' radish"
-msgstr ""
+msgstr "Rábano grande y viejo"
 
 #. SmallMonster (name)
 #.
@@ -17586,7 +17586,7 @@ msgstr ""
 #. msgid "Viscères"
 #: res/data.cdb:item/#283.name
 msgid "Guts"
-msgstr ""
+msgstr "Tripas"
 
 #. LargeMonster (name)
 #.
@@ -17603,7 +17603,7 @@ msgstr "Evil Eye"
 #. msgid "Cerises"
 #: res/data.cdb:item/#285.name
 msgid "Cherries"
-msgstr ""
+msgstr "Cerezas"
 
 #. LargeFruit (name)
 #.
@@ -17611,7 +17611,7 @@ msgstr ""
 #. msgid "Pastèque"
 #: res/data.cdb:item/#286.name
 msgid "Watermelon"
-msgstr ""
+msgstr "Sandía"
 
 #. SmallCastlevania (name)
 #.
@@ -17619,7 +17619,7 @@ msgstr ""
 #. msgid "Patisserie"
 #: res/data.cdb:item/#287.name
 msgid "Pastry"
-msgstr ""
+msgstr "Pasta"
 
 #. LargeCastlevania (name)
 #.
@@ -17627,7 +17627,7 @@ msgstr ""
 #. msgid "Dinde"
 #: res/data.cdb:item/#288.name
 msgid "Turkey"
-msgstr ""
+msgstr "Pavo"
 
 #. LEAVE THIS TEXT IN FRENCH, NO TRANSLATION NEEDED
 #. SmallBaguette (name)
@@ -17748,7 +17748,7 @@ msgstr ""
 #. msgid "Extracteur de cellules temporaire"
 #: res/data.cdb:item/#301.name
 msgid "Liposuction"
-msgstr ""
+msgstr "Liposucción"
 
 #. CellBonus (gameplayDesc)
 #.
@@ -18890,7 +18890,7 @@ msgstr ""
 #. P_Execute_LowHealth (name)
 #: res/data.cdb:item/#366.name
 msgid "No Mercy"
-msgstr ""
+msgstr "Sin Piedad"
 
 #. P_Execute_LowHealth (gameplayDesc)
 #: res/data.cdb:item/#366.gameplayDesc
@@ -19329,7 +19329,7 @@ msgstr "Trajecito de Bobby"
 #. msgid "La tenue du prisonnier Bobby."
 #: res/data.cdb:item/#392.gameplayDesc
 msgid "Prisoner Bobby's outfit."
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Trajecito del preso Bobby."
 
 #. PrisonerDemon (name)
 #.
@@ -23687,7 +23687,7 @@ msgstr ""
 #. msgid "Embarcadère"
 #: res/data.cdb:level/#24.name
 msgid "Pier"
-msgstr ""
+msgstr "Muelle"
 
 #. BoatDock (loreDescriptions) (text)
 #.
@@ -24241,7 +24241,7 @@ msgstr ""
 #. msgid "Passage vers la Promenade des condamnés"
 #: res/data.cdb:level/#35.name
 msgid "Passage to the Promenade of the Condemned"
-msgstr ""
+msgstr "Pasaje al Paseo de los Condenados"
 
 #. T_SewerShort (name)
 #.
@@ -24249,7 +24249,7 @@ msgstr ""
 #. msgid "Passage vers les Égouts toxiques"
 #: res/data.cdb:level/#36.name
 msgid "Passage to the Toxic Sewers"
-msgstr ""
+msgstr "Pasaje a las Cloacas Tóxicas"
 
 #. T_Greenhouse (name)
 #.
@@ -24257,7 +24257,7 @@ msgstr ""
 #. msgid "Passage vers la Serre"
 #: res/data.cdb:level/#37.name
 msgid "Passage to the Dilapidated Arboretum"
-msgstr ""
+msgstr "Pasaje al Arboreto Dilapidado"
 
 #. T_PrisonDepths (name)
 #.
@@ -24265,7 +24265,7 @@ msgstr ""
 #. msgid "Passage vers les Profondeurs de la Prison"
 #: res/data.cdb:level/#38.name
 msgid "Passage to the Prison Depths"
-msgstr ""
+msgstr "Pasaje a las Profundidades de la Prisión"
 
 #. T_Roof (name)
 #.
@@ -24273,7 +24273,7 @@ msgstr ""
 #. msgid "Passage vers les Toits de la Prison"
 #: res/data.cdb:level/#39.name res/data.cdb:level/#40.name
 msgid "Passage to the Ramparts"
-msgstr ""
+msgstr "Pasaje a las Murallas"
 
 #. T_Ossuary (name)
 #.
@@ -24281,7 +24281,7 @@ msgstr ""
 #. msgid "Passage vers le Charnier"
 #: res/data.cdb:level/#41.name res/data.cdb:level/#42.name
 msgid "Passage to the Ossuary"
-msgstr ""
+msgstr "Pasaje al Osario"
 
 #. T_SewerDepthsAfterPrison (name)
 #.
@@ -24289,7 +24289,7 @@ msgstr ""
 #. msgid "Passage vers l'Ancien réseau d'égouts"
 #: res/data.cdb:level/#43.name res/data.cdb:level/#44.name
 msgid "Passage to the Ancient Sewers"
-msgstr ""
+msgstr "Pasaje a las Antiguas Cloacas"
 
 #. T_Swamp (name)
 #.
@@ -24297,7 +24297,7 @@ msgstr ""
 #. msgid "Passage vers le Marais"
 #: res/data.cdb:level/#45.name res/data.cdb:level/#46.name
 msgid "Passage to the Morass of the Banished"
-msgstr ""
+msgstr "Pasaje al Pantano de los Desterrados"
 
 #. T_PrisonCorrupt (name)
 #.
@@ -24305,7 +24305,7 @@ msgstr ""
 #. msgid "Passage vers la Prison corrompue"
 #: res/data.cdb:level/#47.name
 msgid "Passage to the Corrupted Prison"
-msgstr ""
+msgstr "Pasaje a la Prisión Corrupta"
 
 #. T_Bridge (name)
 #.
@@ -24322,7 +24322,7 @@ msgstr "Black Staphy"
 #. msgid "Passage vers la Crypte nauséabonde"
 #: res/data.cdb:level/#49.name
 msgid "Passage to the Insufferable Crypt"
-msgstr ""
+msgstr "Pasaje a la Cripta Insufrible"
 
 #. T_SwampHeart (name)
 #.
@@ -24330,7 +24330,7 @@ msgstr ""
 #. msgid "Passage vers le Coeur du Marais"
 #: res/data.cdb:level/#50.name
 msgid "Passage to the Nest"
-msgstr ""
+msgstr "Pasaje al Nido"
 
 #. T_AfterBridge (name)
 #.
@@ -24338,7 +24338,7 @@ msgstr ""
 #. msgid "Passage vers le Gué des Brumes et le Sanctuaire Endormi"
 #: res/data.cdb:level/#51.name
 msgid "Passage to the Stilt Village and the Slumbering Sanctuary"
-msgstr ""
+msgstr "Pasaje al Pueblo Sobre Pilotes y al Santuario del Sueño"
 
 #. T_AfterSwamp (name)
 #.
@@ -24346,7 +24346,7 @@ msgstr ""
 #. msgid "Passage vers le Gué des Brumes et le Cimetière du Val"
 #: res/data.cdb:level/#52.name
 msgid "Passage to the Stilt Village and the Graveyard"
-msgstr ""
+msgstr "Pasaje a la Aldea sobre Zancos y al Cementerio"
 
 #. T_AncientTemple (name)
 #.
@@ -24354,7 +24354,7 @@ msgstr ""
 #. msgid "Passage vers  le Sanctuaire Endormi"
 #: res/data.cdb:level/#53.name
 msgid "Passage to the Slumbering Sanctuary"
-msgstr ""
+msgstr "Pasaje al Santuario del Sueño"
 
 #. T_Cemetery (name)
 #.
@@ -24362,7 +24362,7 @@ msgstr ""
 #. msgid "Passage vers  le Cimetière du Val"
 #: res/data.cdb:level/#54.name
 msgid "Passage to the Graveyard"
-msgstr ""
+msgstr "Pasaje al Cementerio"
 
 #. T_Crypt (name)
 #.
@@ -24370,7 +24370,7 @@ msgstr ""
 #. msgid "Passage vers le Sépulcre oublié"
 #: res/data.cdb:level/#55.name
 msgid "Passage to the Forgotten Sepulcher"
-msgstr ""
+msgstr "Pasaje al Sepulcro Olvidado"
 
 #. T_ClockTower (name)
 #.
@@ -24378,7 +24378,7 @@ msgstr ""
 #. msgid "Passage vers la Tour de l'Horloge"
 #: res/data.cdb:level/#56.name res/data.cdb:level/#68.name
 msgid "Passage to the Clock Tower"
-msgstr ""
+msgstr "Pasaje a la Torre del Reloj"
 
 #. T_Cavern (name)
 #.
@@ -24386,7 +24386,7 @@ msgstr ""
 #. msgid "Passage vers la Caverne"
 #: res/data.cdb:level/#57.name
 msgid "Passage to the Cavern"
-msgstr ""
+msgstr "Pasaje a la Caverna"
 
 #. T_TopClockTower (name)
 #.
@@ -24394,7 +24394,7 @@ msgstr ""
 #. msgid "Passage vers la Salle de l'Horloge"
 #: res/data.cdb:level/#58.name
 msgid "Passage to the Clock Room"
-msgstr ""
+msgstr "Pasaje a la Sala del Reloj"
 
 #. T_Giant (name)
 #.
@@ -24402,7 +24402,7 @@ msgstr ""
 #. msgid "Passage vers le Repaire du Gardien"
 #: res/data.cdb:level/#59.name
 msgid "Passage to the Guardian's Haven"
-msgstr ""
+msgstr "Pasaje al Refugio del Guardián"
 
 #. T_Castle (name)
 #.
@@ -24410,7 +24410,7 @@ msgstr ""
 #. msgid "Passage vers le Château et la Distillerie"
 #: res/data.cdb:level/#60.name
 msgid "Passage to the High Peak Castle and the Derelict Distillery"
-msgstr ""
+msgstr "Pasaje al Castillo de la Cima Alta y la Destilería Abandonada"
 
 #. T_Distillery (name)
 #.
@@ -24418,7 +24418,7 @@ msgstr ""
 #. msgid "Passage vers la Distillerie"
 #: res/data.cdb:level/#61.name
 msgid "Passage to the Derelict Distillery"
-msgstr ""
+msgstr "Pasaje a la Destilería Abandonada"
 
 #. T_Throne (name)
 #.
@@ -24427,7 +24427,7 @@ msgstr ""
 #: res/data.cdb:level/#62.name res/data.cdb:level/#63.name
 #: res/data.cdb:level/#64.name
 msgid "Passage to the Throne Room"
-msgstr ""
+msgstr "Pasaje a la Sala del Trono"
 
 #. T_Astrolab (name)
 #.
@@ -24435,7 +24435,7 @@ msgstr ""
 #. msgid "Passage vers l'astrolab"
 #: res/data.cdb:level/#65.name
 msgid "Passageway to the Astrolab"
-msgstr ""
+msgstr "Conducto al Astrolab"
 
 #. T_Observatory (name)
 #.
@@ -24443,7 +24443,7 @@ msgstr ""
 #. msgid "Passage vers l'observatoire"
 #: res/data.cdb:level/#66.name
 msgid "Passageway to the Observatory"
-msgstr ""
+msgstr "Conducto al Observatorio"
 
 #. T_Tumulus (name)
 #.
@@ -24451,7 +24451,7 @@ msgstr ""
 #. msgid "Passage vers  les Temples barbares"
 #: res/data.cdb:level/#67.name
 msgid "Passage to the Fractured Shrines"
-msgstr ""
+msgstr "Pasaje a los Santuarios Fracturados"
 
 #. T_Cliff (name)
 #.
@@ -24459,7 +24459,7 @@ msgstr ""
 #. msgid "Passage vers  la Falaise"
 #: res/data.cdb:level/#69.name
 msgid "Passage to the Undying Shores"
-msgstr ""
+msgstr "Pasaje a las Costas Eternas"
 
 #. T_GardenerStage (name)
 #.
@@ -24467,17 +24467,17 @@ msgstr ""
 #. msgid "Passage vers  le Jardin Royal"
 #: res/data.cdb:level/#70.name
 msgid "Passage to the Mausoleum"
-msgstr ""
+msgstr "Pasaje al Mausoleo"
 
 #. T_Queen (name)
 #: res/data.cdb:level/#71.name
 msgid "Path to the Lighthouse's Top"
-msgstr ""
+msgstr "Camino a al Techo del Faro"
 
 #. T_Lighthouse (name)
 #: res/data.cdb:level/#72.name
 msgid "Path to the Lighthouse"
-msgstr ""
+msgstr "Camino al Faro"
 
 #. T_Bank (name)
 #.
@@ -24684,9 +24684,8 @@ msgstr ""
 #. --------
 #. msgid "chest"
 #: res/data.cdb:loreRoom/#0.examinables/#3.label
-#, fuzzy
 msgid "Chest"
-msgstr "ABRIR EL COFRE!"
+msgstr "Cofre"
 
 #. CellMushroom (examinables) mush1 (label)
 #.
@@ -24734,9 +24733,8 @@ msgstr ""
 #: res/data.cdb:loreRoom/#23.examinables/#5.events/#5.text
 #: res/data.cdb:loreRoom/#32.examinables/#0.events/#3.text
 #: res/data.cdb:loreRoom/#142.examinables/#0.events/#3.text
-#, fuzzy
 msgid "Oh."
-msgstr "Oh!"
+msgstr "Ah."
 
 #. CellMushroom (examinables) bed (events) (text)
 #.
@@ -25040,9 +25038,8 @@ msgstr ""
 #: res/data.cdb:loreRoom/#69.examinables/#2.label
 #: res/data.cdb:loreRoom/#71.examinables/#2.label
 #: res/data.cdb:loreRoom/#76.examinables/#2.label
-#, fuzzy
 msgid "Body"
-msgstr "¿Te robaste su cuerpo?"
+msgstr "Cuerpo"
 
 #. DarkCamp (examinables) fire (events) (text)
 #.
@@ -25292,9 +25289,8 @@ msgstr ""
 #: res/data.cdb:loreRoom/#8.examinables/#1.label
 #: res/data.cdb:loreRoom/#9.examinables/#0.label
 #: res/data.cdb:loreRoom/#12.examinables/#1.label
-#, fuzzy
 msgid "Prisoner"
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Preso"
 
 #. Hanged1 (examinables) paper (label)
 #.
@@ -25381,9 +25377,8 @@ msgstr ""
 #. --------
 #. msgid "\"Détenu 6541\""
 #: res/data.cdb:loreRoom/#9.examinables/#0.events/#3.text
-#, fuzzy
 msgid "\"Prisoner 6541\""
-msgstr "Trajecito del prisionero Bobby."
+msgstr "\"Preso 6541\""
 
 #. Hanged2 (examinables) body (events) (text)
 #.
@@ -25398,9 +25393,8 @@ msgstr ""
 #. --------
 #. msgid "Affaires de prisonnier"
 #: res/data.cdb:loreRoom/#10.examinables/#3.label
-#, fuzzy
 msgid "Prisoner's personal effects"
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Efectos personales del preso"
 
 #. Hanged3 (examinables) body1 (events) (text)
 #.
@@ -25565,9 +25559,8 @@ msgstr ""
 #. msgid "Sac"
 #: res/data.cdb:loreRoom/#12.examinables/#4.label
 #: res/data.cdb:loreRoom/#39.examinables/#1.label
-#, fuzzy
 msgid "Bag"
-msgstr "Bolsa de Trucos"
+msgstr "Mochila"
 
 #. Well1 (examinables) tool (knownLabel)
 #.
@@ -25598,9 +25591,8 @@ msgstr ""
 #. --------
 #. msgid "\"Détenu 545\""
 #: res/data.cdb:loreRoom/#12.examinables/#1.events/#1.text
-#, fuzzy
 msgid "\"Prisoner 545\""
-msgstr "Trajecito del prisionero Bobby."
+msgstr "\"Preso 545\""
 
 #. Well1 (examinables) body (events) (text)
 #.
@@ -26812,9 +26804,8 @@ msgstr ""
 #. --------
 #. msgid "Gardien mort"
 #: res/data.cdb:loreRoom/#23.examinables/#1.label
-#, fuzzy
 msgid "Dead guard"
-msgstr "¡Nuestro héroe está muerto!"
+msgstr "Guardia muerto"
 
 #. CellMap3 (examinables) paper (label)
 #: res/data.cdb:loreRoom/#23.examinables/#5.label
@@ -27967,9 +27958,8 @@ msgstr ""
 #. --------
 #. msgid "Vive le Roi !\""
 #: res/data.cdb:loreRoom/#45.examinables/#0.events/#2.text
-#, fuzzy
 msgid "Long live the King!\""
-msgstr "Vencé a la Mano del Rey."
+msgstr "¡Larga vida al rey!\""
 
 #. SoldierMessage4 (examinables) desk (events) (text)
 #.
@@ -28473,9 +28463,8 @@ msgstr "Armas a distancia"
 #. --------
 #. msgid "Trou géant"
 #: res/data.cdb:loreRoom/#52.examinables/#4.label
-#, fuzzy
 msgid "Giant hole"
-msgstr "Rise of the Giant"
+msgstr "Agujero gigante"
 
 #. Beholder3 (examinables) fluid (events) (text)
 #.
@@ -28705,9 +28694,8 @@ msgstr ""
 #. --------
 #. msgid "VIVE LE ROI !\""
 #: res/data.cdb:loreRoom/#55.examinables/#0.events/#5.text
-#, fuzzy
 msgid "LONG LIVE THE KING!\""
-msgstr "Vencé a la Mano del Rey."
+msgstr "LARGA VIDA AL REY!\""
 
 #. TextWall3 (examinables) desk (label)
 #.
@@ -29820,9 +29808,8 @@ msgstr "Equipo"
 #. --------
 #. msgid "Tout en cuivre."
 #: res/data.cdb:loreRoom/#72.examinables/#2.events/#1.text
-#, fuzzy
 msgid "All copper."
-msgstr "Sacar todo"
+msgstr "Todo cobre."
 
 #. ObservatoryRoom1 (examinables) telescope (events) (text)
 #.
@@ -29945,9 +29932,8 @@ msgstr ""
 #. --------
 #. msgid "Oh chouette."
 #: res/data.cdb:loreRoom/#74.examinables/#1.events/#6.text
-#, fuzzy
 msgid "Oh lovely."
-msgstr "Oh!"
+msgstr "Ah encantador."
 
 #. Infection3 (examinables) massGrave (events) (text)
 #.
@@ -30028,9 +30014,8 @@ msgstr ""
 #. --------
 #. msgid "\"Détenu 236\""
 #: res/data.cdb:loreRoom/#76.examinables/#2.events/#1.text
-#, fuzzy
 msgid "\"Prisoner 236\""
-msgstr "Trajecito del prisionero Bobby."
+msgstr "\"Preso 236\""
 
 #. Infection4 (examinables) body (events) (text)
 #.
@@ -30077,9 +30062,8 @@ msgstr ""
 #. --------
 #. msgid "Sûrement les affaires du prisonnier."
 #: res/data.cdb:loreRoom/#77.examinables/#1.events/#0.text
-#, fuzzy
 msgid "Must be the prisoner's things."
-msgstr "Trajecito del prisionero Bobby."
+msgstr "Deben ser las cosas del preso."
 
 #. Infection6 (examinables) textWall (events) (text)
 #.
@@ -30764,9 +30748,8 @@ msgstr ""
 #. --------
 #. msgid "Oh et ce n'est pas tout."
 #: res/data.cdb:loreRoom/#86.examinables/#0.events/#4.text
-#, fuzzy
 msgid "Oh, and that's not all."
-msgstr "Oh!"
+msgstr "Ah, y eso no es todo."
 
 #. Behemoth4 (examinables) room (events) (text)
 #.
@@ -30934,9 +30917,8 @@ msgstr ""
 #. --------
 #. msgid "Attendez !"
 #: res/data.cdb:loreRoom/#90.examinables/#0.events/#2.text
-#, fuzzy
 msgid "Wait!"
-msgstr "Bancá... ¡No sos el Rey!"
+msgstr "¡Bancá!"
 
 #. KingGiant2 (examinables) crate (events) (text)
 #.
@@ -30999,9 +30981,8 @@ msgstr ""
 #. --------
 #. msgid "Petit coffre"
 #: res/data.cdb:loreRoom/#91.examinables/#1.label
-#, fuzzy
 msgid "Small chest"
-msgstr "ABRIR EL COFRE!"
+msgstr "Cofre chico"
 
 #. SewersGollum (examinables) body (events) (text)
 #.
@@ -31024,9 +31005,8 @@ msgstr ""
 #. --------
 #. msgid "Je reconnais cette main."
 #: res/data.cdb:loreRoom/#91.examinables/#0.events/#2.text
-#, fuzzy
 msgid "I recognize this hand."
-msgstr "Vencé a la Mano del Rey."
+msgstr "Reconozco esta mano."
 
 #. SewersGollum (examinables) body (events) (text)
 #.
@@ -31049,9 +31029,8 @@ msgstr ""
 #. --------
 #. msgid "Arrière-salle"
 #: res/data.cdb:loreRoom/#92.examinables/#0.label
-#, fuzzy
 msgid "Back room"
-msgstr "Click para atrás"
+msgstr "Sala trasera"
 
 #. BossKingsHandThrone (examinables) room (events) (text)
 #.
@@ -31095,9 +31074,8 @@ msgstr ""
 #. --------
 #. msgid "Squelette géant"
 #: res/data.cdb:loreRoom/#94.examinables/#1.label
-#, fuzzy
 msgid "Giant skeleton"
-msgstr "Rise of the Giant"
+msgstr "Esqueleto gigante"
 
 #. PrisonTube2 (examinables) skelHead (label)
 #.
@@ -31197,9 +31175,8 @@ msgstr ""
 #. --------
 #. msgid "Boutique de spécialiste."
 #: res/data.cdb:loreRoom/#101.examinables/#0.events/#1.text
-#, fuzzy
 msgid "Specialist Shop."
-msgstr "Reproducir música de negocio"
+msgstr "Kiosco del Especialista."
 
 #. SpecializedShopEntrance (examinables) sign (events) (text)
 #.
@@ -31376,9 +31353,8 @@ msgstr ""
 #. --------
 #. msgid "Mais ça va où, alors ?"
 #: res/data.cdb:loreRoom/#109.examinables/#0.events/#2.text
-#, fuzzy
 msgid "But where does it go?"
-msgstr "Andá al Banco"
+msgstr "¿Pero a dónde va?"
 
 #. GreenhouseLoreQueen (examinables) queenSeat (label)
 #.
@@ -31444,9 +31420,8 @@ msgstr ""
 #. --------
 #. msgid "Ni de porter cette tenue."
 #: res/data.cdb:loreRoom/#110.examinables/#1.events/#2.text
-#, fuzzy
 msgid "Or wear this outfit."
-msgstr "Traje"
+msgstr "O usá este trajecito."
 
 #. GreenhouseLoreQueen (examinables) gardenerSeat (events) (text)
 #.
@@ -31866,9 +31841,8 @@ msgstr ""
 #. --------
 #. msgid "Cuve vide"
 #: res/data.cdb:loreRoom/#125.examinables/#1.label
-#, fuzzy
 msgid "Empty tank"
-msgstr "(vacío)"
+msgstr "Tanque vacío"
 
 #. CliffCollectorRoom (examinables) notes (events) (text)
 #.
@@ -31930,9 +31904,8 @@ msgstr ""
 #. --------
 #. msgid "hotkBedEvent"
 #: res/data.cdb:loreRoom/#129.examinables/#0.events/#0.text
-#, fuzzy
 msgid "King Size..."
-msgstr "Mi Rey..."
+msgstr "Tamaño Rey..."
 
 #. HotkRoom (examinables) hotkDiary (events) (text)
 #.
@@ -32008,9 +31981,8 @@ msgstr ""
 
 #. TortureRoom (examinables) Door (events) (text)
 #: res/data.cdb:loreRoom/#131.examinables/#0.events/#6.text
-#, fuzzy
 msgid "Something's not right..."
-msgstr "Habilidad derecha"
+msgstr "Algo no esta bien..."
 
 #. TortureRoom (examinables) Corpes (events) (text)
 #.
@@ -32058,9 +32030,8 @@ msgstr ""
 #. --------
 #. msgid "U26_HKLORE_3"
 #: res/data.cdb:loreRoom/#132.examinables/#0.events/#5.text
-#, fuzzy
 msgid "... it's good to be right!"
-msgstr "Habilidad derecha"
+msgstr "... es bueno tener razón!"
 
 #. CurseofTheDeadGodsRoom (examinables) codgAltar (events) (text)
 #.
@@ -32131,9 +32102,8 @@ msgstr ""
 #. --------
 #. msgid "U26_GUACALORE_1"
 #: res/data.cdb:loreRoom/#137.examinables/#0.events/#1.text
-#, fuzzy
 msgid "What a glorious figure!"
-msgstr "Pero qué..."
+msgstr "¡Qué figura tan gloriosa!"
 
 #. GuacameleeRoom (examinables) guacameleeStatue (events) (text)
 #.
@@ -32145,9 +32115,8 @@ msgstr ""
 
 #. StilltStaphy (examinables) HenriCorpse (events) (text)
 #: res/data.cdb:loreRoom/#138.examinables/#0.events/#1.text
-#, fuzzy
 msgid "A very dead Michel."
-msgstr "¡Nuestro héroe está muerto!"
+msgstr "Un Michel muy muerto."
 
 #. StilltStaphy (examinables) HenriCorpse (events) (text)
 #.
@@ -32208,9 +32177,8 @@ msgstr "Tridente"
 #. --------
 #. msgid "What a beautiful pedestal"
 #: res/data.cdb:loreRoom/#141.examinables/#0.events/#1.text
-#, fuzzy
 msgid "What a beautiful pedestal!"
-msgstr "Pero qué..."
+msgstr "¡Qué hermoso pedestal!"
 
 #. ShipwreckTridentRoom (examinables) Trident (events) (text)
 #.
@@ -32380,9 +32348,8 @@ msgstr ""
 #. --------
 #. msgid "Classique"
 #: res/data.cdb:musicPack/#0.name
-#, fuzzy
 msgid "Classic"
-msgstr "Fuente clásica"
+msgstr "Clásico"
 
 #. Default (description)
 #.
@@ -32425,9 +32392,8 @@ msgstr ""
 
 #. (title)
 #: res/data.cdb:infectionRule/#3.title
-#, fuzzy
 msgid "More reactive enemies"
-msgstr "Muestra enemigos invisibles."
+msgstr "Más enemigos reactivos"
 
 #. (title)
 #: res/data.cdb:infectionRule/#4.title
@@ -32481,9 +32447,8 @@ msgstr ""
 
 #. (title)
 #: res/data.cdb:infectionRule/#14.title
-#, fuzzy
 msgid "Enemies turn into elites"
-msgstr "Muestra enemigos invisibles."
+msgstr "Los enemigos se convierten en élites"
 
 #. (title)
 #: res/data.cdb:infectionRule/#15.title
@@ -32521,9 +32486,8 @@ msgstr ""
 
 #. (title)
 #: res/data.cdb:infectionRule/#20.title
-#, fuzzy
 msgid "Enemies teleport by groups"
-msgstr "Muestra enemigos invisibles."
+msgstr "Los enemigos se teletransportan de a grupos"
 
 #. (title)
 #: res/data.cdb:infectionRule/#21.title
@@ -32541,9 +32505,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Dernière tentative échouée !"
-#, fuzzy
 msgid "Last attempt failed!"
-msgstr "Fallaste"
+msgstr "¡Último intento fallido!"
 
 #. Deprecated
 #.
@@ -32556,9 +32519,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Essais restants: ::n::"
-#, fuzzy
 msgid "Attempts remaining: ::n::"
-msgstr "::n:: {iconCoin@img} encontrado"
+msgstr "Intentos restantes: ::n::"
 
 #. Deprecated
 #.
@@ -32571,9 +32533,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Vous avez été infecté par le Mal-être."
-#, fuzzy
 msgid "You've been infected by the Malaise."
-msgstr "Comida infectada con Malestar"
+msgstr "Fuiste infectado por el Malestar."
 
 #. Deprecated
 #.
@@ -32593,9 +32554,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Objet débloqué: ::name::"
-#, fuzzy
 msgid "Item unlocked: ::name::"
-msgstr "::name::!"
+msgstr "Cosa desbloqueada: ::name::"
 
 #. Deprecated
 #.
@@ -32731,9 +32691,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Arme secondaire uniquement."
-#, fuzzy
 msgid "Secondary weapon only."
-msgstr "Arma cuerpo a cuerpo"
+msgstr "Solo arma secundaria."
 
 #. Deprecated
 #.
@@ -32884,9 +32843,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Se déplacer avec le bouton multidirectionnel"
-#, fuzzy
 msgid "Move with the D-pad"
-msgstr "::m::/::d::/::y::"
+msgstr "Movete con el D-Pad"
 
 #. Deprecated
 #. XBox Terminology (D-pad)
@@ -33014,9 +32972,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "{Accès Anticipé@CC}"
-#, fuzzy
 msgid "{Early Access@CC}"
-msgstr "Foro de Acceso Anticipado"
+msgstr "{Early Access@CC}"
 
 #. Deprecated
 #.
@@ -33029,9 +32986,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Défis ratés"
-#, fuzzy
 msgid "Challenges failed"
-msgstr "Fallaste"
+msgstr "Desafíos fallidos"
 
 #. Deprecated
 #.
@@ -33072,9 +33028,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Il est mort."
-#, fuzzy
 msgid "She is dead."
-msgstr "¡Nuestro héroe está muerto!"
+msgstr "Ella está muerta."
 
 #. Deprecated
 #. HorizontalTurret (legendaryName)
@@ -33209,9 +33164,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Inflige des dégâts modérés."
-#, fuzzy
 msgid "Inflicts moderate damage."
-msgstr "::d:: daño/seg"
+msgstr "Hace un daño moderado."
 
 #. Deprecated
 #. ClusterBomb (legendaryName)
@@ -33305,9 +33259,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Sang noir"
-#, fuzzy
 msgid "Black Blood"
-msgstr "Black Staphy"
+msgstr "Sangre Negra"
 
 #. Deprecated
 #. DamageBuff (legendaryName)
@@ -33351,27 +33304,24 @@ msgstr ""
 #.
 #. --------
 #. msgid "Vampirisme (vide)"
-#, fuzzy
 msgid "Vampirism (empty)"
-msgstr "(vacío)"
+msgstr "Vampirismo (vacío)"
 
 #. Deprecated
 #. LeechBuffEmpty (legendaryName)
 #.
 #. --------
 #. msgid "Mange-âmes (vide)"
-#, fuzzy
 msgid "Soul Gobbler (empty)"
-msgstr "(vacío)"
+msgstr "Devorador de Almas (vacío)"
 
 #. Deprecated
 #. LeechBuffEmpty (gameplayDesc)
 #.
 #. --------
 #. msgid "Se régénère au prochain niveau."
-#, fuzzy
 msgid "Regenerates in the next level."
-msgstr "Siguiente"
+msgstr "Se regenera en el siguiente nivel."
 
 #. Deprecated
 #. ExtraHeal (legendaryName)
@@ -33394,18 +33344,16 @@ msgstr ""
 #.
 #. --------
 #. msgid "Tonique (vide)"
-#, fuzzy
 msgid "Tonic (empty)"
-msgstr "(vacío)"
+msgstr "Tónico (vacío)"
 
 #. Deprecated
 #. ExtraHealEmpty (legendaryName)
 #.
 #. --------
 #. msgid "Miracle (vide)"
-#, fuzzy
 msgid "Miracle Tonic (empty)"
-msgstr "(vacío)"
+msgstr "Tónico Milagroso (vacío)"
 
 #. Deprecated
 #. Hook (legendaryName)
@@ -33440,9 +33388,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Nuage toxique"
-#, fuzzy
 msgid "Toxic Cloud"
-msgstr "Activar la sincronización con Steam Cloud."
+msgstr "Nube Tóxica"
 
 #. Deprecated
 #. ToxicCloud (legendaryName)
@@ -33555,9 +33502,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Fait de très gros dégâts."
-#, fuzzy
 msgid "Does massive damage."
-msgstr "::d:: daño/seg"
+msgstr "Hace un daño masivo."
 
 #. Deprecated
 #. Shovel (legendaryName)
@@ -33796,9 +33742,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Barbelure"
-#, fuzzy
 msgid "Barbed Arrow"
-msgstr "¡La flecha es más poderosa que la espada!"
+msgstr "Flecha con Púas"
 
 #. Deprecated
 #. FastBow (legendaryName)
@@ -34191,9 +34136,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "Coeur noir"
-#, fuzzy
 msgid "Black Heart"
-msgstr "Black Staphy"
+msgstr "Corazón Negro"
 
 #. Deprecated
 #. P_DmgKill (gameplayDesc)
@@ -34344,9 +34288,8 @@ msgstr ""
 #.
 #. --------
 #. msgid "PV +::prct::%."
-#, fuzzy
 msgid "+::prct::% HP."
-msgstr "+::prct::% VIDA"
+msgstr "+::prct::% VIDA."
 
 #. Deprecated
 #. P_Curse (gameplayDesc)
@@ -34496,18 +34439,16 @@ msgstr ""
 #.
 #. --------
 #. msgid "Dégâts subis +::prct::%"
-#, fuzzy
 msgid "+::prct::% damage taken."
-msgstr "+::n::% daño"
+msgstr "+::prct::% daño recibido."
 
 #. Deprecated
 #. ReduceInfection (desc)
 #.
 #. --------
 #. msgid "Réduit l'infection au Mal-être"
-#, fuzzy
 msgid "Reduces Malaise infection"
-msgstr "Comida infectada con Malestar"
+msgstr "Reduce la infección Malestar"
 
 #. Deprecated
 #. SuperCrit (desc)
